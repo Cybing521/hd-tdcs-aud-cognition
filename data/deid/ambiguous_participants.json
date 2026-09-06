@@ -1,0 +1,19 @@
+{
+  "id_field": "study_id",
+  "index_case": "P-E",
+  "codes_in_order": [
+    "P-A",
+    "P-B",
+    "P-C",
+    "P-D",
+    "P-E"
+  ],
+  "study_ids": {
+    "P-A": "S_FB295355",
+    "P-B": "S_3A3B60FF",
+    "P-C": "S_01FE454D",
+    "P-D": "S_161E524F",
+    "P-E": "S_D571E90C"
+  },
+  "note": "Five participants whose erroneous active-arm rows were removed; retained records remain in the sham arm of the primary analysis set. Codes match data_cleaning_log.json. Raw name-to-code mapping is local-only in 03_分析表格/."
+}

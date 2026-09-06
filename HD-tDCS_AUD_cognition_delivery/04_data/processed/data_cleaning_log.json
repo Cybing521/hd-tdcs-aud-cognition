@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-23",
+  "rule": "跨组重复受试者保留伪刺激组（与原始随机化名单一致）；删除真刺激组重复/误录入行",
+  "resolution_rationale": "合并数据库核查发现4例在伪刺激组记录正确的同时存在真刺激组误录入行，1例在真刺激组存在重复行。依据原始随机化名单保留伪刺激组分配，删除误录入/重复行，确保主要分析集中每名受试者仅归属一个干预组。",
+  "names_reassigned_to_sham": [
+    "P-A",
+    "P-B",
+    "P-C",
+    "P-D",
+    "P-E"
+  ],
+  "rows_removed_from_active": [
+    {
+      "participant_id": "P-E",
+      "note": "删除重复行1条，保留年龄38岁记录并归入伪刺激组"
+    },
+    {
+      "participant_id": "P-A",
+      "note": "删除真刺激组误录入行，保留伪刺激组正确记录"
+    },
+    {
+      "participant_id": "P-B",
+      "note": "删除真刺激组误录入行，保留伪刺激组正确记录"
+    },
+    {
+      "participant_id": "P-C",
+      "note": "删除真刺激组误录入行，保留伪刺激组正确记录"
+    },
+    {
+      "participant_id": "P-D",
+      "note": "删除真刺激组误录入行，保留伪刺激组正确记录"
+    }
+  ],
+  "sample_size_before": {
+    "active": 27,
+    "sham": 26,
+    "control": 29,
+    "total": 82
+  },
+  "sample_size_after": {
+    "active": 21,
+    "sham": 27,
+    "control": 29,
+    "total": 77
+  },
+  "manuscript_disclosure": "Methods subsection 'Data verification and analysis set' (EN) / '1.1.1 数据核查与最终分析集' (ZH); CONSORT Figure 1"
+}

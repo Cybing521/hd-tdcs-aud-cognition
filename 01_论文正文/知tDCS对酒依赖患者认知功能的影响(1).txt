@@ -1,0 +1,136 @@
+高精度经颅直流电刺激对男性酒依赖患者认知功能的影响
+【摘要】目的：探讨高精度经颅直流电刺激（HD-tDCS）对男性酒依赖患者认知功能的影响。方法：纳入82例男性酒依赖患者随机分为对照组、正常刺激组和伪刺激组，对照组维持常规治疗，正常刺激组给予为期2周共计14次的HD-tDCS真刺激治疗，伪刺激组则是给予为期2周共计14次的HD-tDCS伪刺激。在治疗前后分别给予简明精神状态评价量表（MMSE）、连线测试B（TMT-B）、数字广度测验（DST）、词语流畅性测验（VFT）、霍普金斯词语学习测验修订版（HVLT-R）等认知功能的评估。结果：正常刺激组、伪刺激组治疗后与对照组治疗后的的简明精神量表、数字广度测验结果比较无统计学意义（P＞0.05），而连线测试B、词语流畅性测验、霍普金斯词语学习测验-修订版中正常刺激组与伪刺激组及对照组相比有统计学意义（P＜0.05），伪刺激组与对照组相比无统计学意义（P＞0.05）。结论：HD-tDCS治疗能改善酒依赖患者的认知目标转换能力、执行控制能力、语言学习、记忆和再认能力，对于男性酒依赖患者的认知功能有改善。
+
+Abstract: Objective: To investigate the effects of high-precision transcranial direct current stimulation (HD tDCS) on cognitive function in male alcohol dependent patients. Method: A total of 82 male alcohol dependent patients were randomly divided into a control group, a normal stimulation group, and a pseudo stimulation group. The control group received routine treatment, while the normal stimulation group received 14 times of HD-tDCS true stimulation treatment for 2 weeks. The pseudo stimulation group received 14 times of HD-tDCS pseudo stimulation treatment for 2 weeks. The three groups of subjects received cognitive function assessment again after the intervention, including the Mini-mental State Examination, the Trail Making Test, the Digit Span Test, the Verbal Fluency Test, and the Hopkin Verbal Learning Test Revised . Result: There was no statistically significant difference (P>0.05) in the results of the Mini-mental State Examination and the Digit Span Test between the normal stimulation group and the sham stimulation group after treatment and the control group over the course after treatment (P>0.05). However, there was a statistically significant difference (P<0.05) in the Trail Making Test, the Verbal Fluency Test, and the Hopkin Verbal Learning Test Revised between the normal stimulation group and the sham stimulation group, as well as the control group. There was no statistically significant difference (P>0.05) between the sham stimulation group and the control group. Conclusion: HD-tDCS treatment can improve the cognitive goal switching ability, executive control ability, language learning, memory, and recognition ability of alcohol dependent patients, and improve the cognitive function of male alcohol dependent patients.
+
+
+
+在2019年，全球约有244万人因使用酒精而导致死亡【14】，；同年，在中国，饮酒致死人数约为51.47万人，是之前的1.44倍【52】，酒依赖的终生患病率为4.4%【63】。目前，我国饮酒人数超过5亿，在饮酒人群中已婚、在职男性所占比例较多【14】，且首次饮酒年龄较前减小【52，36】。我们需要认识及重视酒精滥用所造成的一系列问题。酒依赖是一种精神障碍，其主要特征为：固定的饮酒方式、特征性寻求饮酒行为、酒精耐受性增加、戒断症状及渴求【7】，是一种高复发率的疾病。该病所造成的的认知功能损害是明确的，同时也是造成患者复饮的危险因素之一【8】，因此，如何改善酒依赖患者的认知功能是我们需要我们努力探索的方向。
+在既往的研究中发现，酒依赖患者的认知功能障碍主要体现在：记忆障碍【9】、注意力障碍【10】及执行控制能力障碍【11】等。人们曾尝试使用生物反馈【12】、团体认知行为治疗【13】、重复经颅磁刺激【14】等多种方法改善酒依赖患者认知功能，但从简便、经济及不良反应等角度，经颅直流电刺激（tDCS）【15】逐渐进入人们视线。
+经颅直流电刺激是利用直流电刺激来调节大脑神经元的放电时的阈值【16】、影响突触重塑【17】以增强大脑半球间的连接【18】，进而改善脑功能。在既往的研究中，对于tDCS能够降低酒依赖患者的渴求【19】、改善不良情绪【20】、改善睡眠【21、22】有明确效果，但其对认知功能的影响研究较少。传统的tDCS是将2个海绵电极片通过用盐水浸湿而达到导电的目的，这在操作中虽较为简便，但是刺激部位不够精确，因而高精度的经颅直流电刺激（HD-tDCS）在此基础上做出改良，其使用4×1环（中间1个为中央电极片，周围4个为返回电极片）来代替传统的海绵电极片，导电物质则选用导电性能更好的电极膏来代替传统的盐水。
+本研究选用HD-tDCS作为干预手段，探索其对酒依赖患者认知功能的影响。
+1对象与方法
+1.1对象  本研究在2019年10月-2020年10月于河南省精神病医院住院的男性酒依赖患者中招募。入组标准：(1)符合DSM-5（罗马数字）酒依赖诊断标准的患者；(2)初中以上文化程度；(3)无其他精神活性物质使用史（尼古丁除外）；(4)男性，年龄在18-55岁；(5)右利手；(6)患者本人及其监护人知情同意。排除标准：(1)目前和既往有脑器质性精神障碍、神经系统疾病及影响认知功能的其他躯体疾病；(2)曾接受过认知行为治疗；(3)有大脑创伤病变史，或有头部手术史者；(4)有昏迷史、中风史者；(5)处于脑血管病急性期者；(6)有心脏病或安装心脏起搏器者；(7)有安装耳内助听器者或者有金属植入物者。脱落标准：不愿进行tDCS治疗者、量表评估不配合者。
+最终经入排标准筛查，2019年10月-2020年10月在新乡医学院第二附属医院（河南省精神病医院）河南省精神病医院住院的85名男性酒依赖患者自愿参与，采用单盲试验、用随机数字表法随机分为对照组29人、正常刺激组28人和伪刺激组28人。其中正常刺激组有1人因提前出院而中途退出，伪刺激组有2人因提前出院而中途退出，最终对照组29人、正常刺激组27人和伪刺激组26人。
+本研究经新乡医学院第二附属医院伦理委员会（前后一致）批准，研究对象及其家属均签署知情同意书。
+1.2.1 一般情况调查表：收集患者一般人口学资料，如年龄、文化程度、受教育年限；酒精使用情况，如首次饮酒年龄、累计使用时间、成瘾时间和戒酒次数。
+1.2.2认知功能评估：
+(1)简易精神状态评价量表（Mini-mental State Examination，MMSE）：是常用的认知功能筛查量表，该表共有12道题。主要包括定向力、记忆力、注意力及计算力、回忆、语言等，总分为30分。文盲≤17分，小学≤20分，中学及以上≤24分，则提示认知功能障碍【23】。
+(2)连线测试B（Trail Making Test，TMT-B）：将数字1—13及英文字母A—L打乱排列，要求受试者按照数字-字母-数字的形式并按照顺序将数字和字母用一条线连接，由1开始，到13结束。如受试者在连线中有错误，应及时指出并改正，记录受试者完成连线所用的时间。该项测评受试者的注意力和认知目标转换能力。
+(3)数字广度测验（Digit Span Test，DST）：分为顺背数字和倒背数字。顺背数字广度测验是由3位数开始，逐渐增加到13位数；倒背数字广度测验是由2位数开始，逐渐增加到10位数。测试者在安静的环境下缓慢、清晰的逐个读出数字，受试者则回忆，数字的位数逐渐增加，如背错两次即停止测验，以背诵正确的最高位数为分数，将两部分的得分相加。测评受试者的注意力和工作记忆能力。
+(4)词语流畅性测验（Verbal Fluency Test，VFT）：要求受试者在1分钟内尽可能多地说出动物名称，重复名称只记1分，记录正确名称的个数即为所得的分数，反映受试者的工作记忆和执行控制能力。
+(5)霍普金斯词语学习测验-修订版（Hopkin Verbal Learning Test Revised，HVLT-R）：该测试共有12个不同的名词，测试者在安静的环境下将这12个名词缓慢清晰的逐个读出，读完后要求受试者尽可能多的记忆并复述，重复进行3次。记录受试者每次正确复述的个数即为其得分，将3次测试所得的分数相加。该项测评受试者的语言学习、记忆和再认能力。
+1.3研究流程
+1.3.1 干预流程 三组被试在完成苯二氮䓬类药物替代治疗后分别接受真刺激（为期2周，共计14次）、伪刺激（为期2周，共计14次）、常规干预。治疗仪使用的是美国Soterix Medical公司生产的MXN-9高分辨率经颅电流（HD-tES）刺激器，选择波形为DC，研究证实背外侧前额叶（DLPFC）与记忆和情感等多种认知功能【24】相关，故刺激部位阳极选择F3为中心电极，FP1、F7、C1、C3为返回电极，刺激强度为1.0mA，刺激部位阴极选择为F4为中心电极，FP2、F8、C2、C4为返回电极，刺激强度为-1.0mA，每次刺激时间为20分钟，每天1次，共14次【25，26】。正常刺激组正常刺激，模式为ACTIVE STIM；伪刺激组则选择SHAM STIM模式，该模式下仅在最初30s和最后30s时有刺激产生。
+1.3.2 评估流程 基线时（入院2周末）对三组被试进行一般情况调查和认知功能评估；干预后（入院4周末）对三组被试进行认知功能评估。
+1.4统计学处理
+数据分析采用SPSS 22.0软件进行处理，组内治疗前后计量资料选用配对样本t检验；组间一般资料、基线时、干预后、及干预后认知功能的差值比较为计量资料，如方差齐则选用单因素方差分析，组间的两两比较采用LSD检验；如方差不齐则选用采用近似F检验：Welch法；三组间的两两比较采用Games-Howell检验。将酒依赖患者治疗前的认知功能结果与饮酒特征进行pearson相关性分析。P＜0.05为差异有统计学意义。
+2 结果
+2.1 正常刺激组、伪刺激组和对照组一般社会人口学资料比较
+三组在年龄、受教育年限、首次饮酒年龄、累计使用时间、成瘾时间及戒酒次数之间的差异均无统计学意义（P＞0.05），三组之间具有可比性。结果见表1。
+表1  正常刺激组、伪刺激组和对照组社会特征比较（ EQ \* jc2 \* "Font:宋体" \* hps10 \o \ad(\s \up 9(—),x)±s）
+正常刺激组（n=27）伪刺激组
+（n=26）对照组
+（n=29）F值P值年龄（岁）35.41±6.8835.42±9.2838.14±7.661.0920.341受教育年限（年）11.48±3.1110.96±2.6210.69±2.880.5430.583首次饮酒年龄（岁）16.07±3.2715.69±3.0815.14±3.540.5670.570累计使用时间（年）19.30±6.2819.69±8.5622.66±6.691.8220.168成瘾时间（年）6.78±4.865.27±3.527.03±5.301.1260.329戒酒次数（次）4.03±2.984.30±2.634.72±3.520.3530.703
+2.2 正常刺激组、伪刺激组与对照组基线时的认知功能结果及比较
+三组患者治疗前的简明精神量表（MMSE）、连线测试B（TMT-B）、数字广度测验（DST）、词语流畅性测验（VFT）、霍普金斯词语学习测验-修订版（HVLT-R）的结果比较均无统计学意义（P＞0.05），结果见表2、表3。
+
+
+
+
+
+
+
+表2  正常刺激组、伪刺激组和对照组基线时MMSE、TMT-B、DST、VFT结果比较（ EQ \* jc2 \* "Font:宋体" \* hps10 \o \ad(\s \up 9(—),x)±s）
+认知功能正常刺激组（n=27）伪刺激组
+（n=26）对照组
+（n=29）F值P值MMSE（分）27.00±1.8626.07±1.4726.59±1.781.9190.154TMT-B（秒）149.19±59.10184.81±82.26164.93±78.061.5470.219DST（分）12.74±2.1012.12±2.2212.28±2.370.5640.571VFT（分）19.56±4.7718.19±4.5618.79±6.500.4270.654
+表3  正常刺激组、伪刺激组和对照组基线时HVLT-R结果比较（ EQ \* jc2 \* "Font:宋体" \* hps10 \o \ad(\s \up 9(—),x)±s）
+
+正常刺激组（n=27）
+伪刺激组
+（n=26）
+对照组
+（n=29）
+P值（Welch法）
+HVLT-R（分）
+19.89±6.49
+18.04±3.95
+19.31±6.75
+0.404
+
+
+2.3正常刺激组、伪刺激组与对照组干预后的认知功能结果及比较
+正常刺激组、伪刺激组治疗后与对照组4周末的的简明精神量表（MMSE）、数字广度测验（DST）结果比较无统计学意义（P＞0.05），而连线测试B（TMT-B）、词语流畅性测验（VFT）、霍普金斯词语学习测验-修订版（HVLT-R）则有统计学意义，结果见表4、表5。
+对于有统计学意义的结果继续分析，词语流畅性测验（VFT）正常刺激组与伪刺激组比较P=0.001，正常刺激组与对照组比较P=0.008＜0.05，结果示有统计学意义；伪刺激组与对照组比较P=0.463＞0.05，结果为无统计学意义。霍普金斯词语学习测验-修订版（HVLT-R）正常刺激组与伪刺激组比较P=0.000，正常刺激组与对照组比较P=0.013＜0.05，结果示有统计学意义；伪刺激组与对照组比较P=0.157＞0.05，结果为无统计学意义。连线测试B（TMT-B）正常刺激组与伪刺激组比较P=0.000，正常刺激组与对照组比较P=0.018＜0.05，结果示有统计学意义；伪刺激组与对照组比较P=0.730＞0.05，结果为无统计学意义。
+表4  正常刺激组、伪刺激组和对照组干预后MMSE、DST、VFT、HVLT-R结果比较（ EQ \* jc2 \* "Font:宋体" \* hps10 \o \ad(\s \up 9(—),x)±s）
+正常刺激组（n=27）伪刺激组
+（n=26）对照组
+（n=29）F值P值MMSE（分）28.48±1.4027.77±1.4827.76±1.502.1860.119DST（分）14.41±2.1412.92±1.8113.35±2.713.0360.054VFT（分）23.74±3.9519.54±3.74a20.45±5.62a6.3070.003HVLT-R（分）26.85±6.4320.77±4.34a22.97±6.02a7.8000.001注：a：与正常刺激组比较，P＜0.05。
+表5  正常刺激组、伪刺激组和对照组干预后TMT-B结果比较（ EQ \* jc2 \* "Font:宋体" \* hps10 \o \ad(\s \up 9(—),x)±s）
+
+正常刺激组（n=27）
+伪刺激组
+（n=26）
+对照组
+（n=29）
+P值（Welch法）
+TMT-B（秒）
+96.59±36.49
+149.61±54.23a
+137.21±66.85a
+0.000
+      注：a：与正常刺激组比较，P＜0.05。
+
+3 讨论
+对于酒依赖患者，往往会尝试多次戒酒，但最终大多以失败告终，及即复饮。复饮的原因有很多，其中我们不能忽略的是不良情绪【27】对其的影响。不良情绪的产生不仅与生活中的不良事件相关，而且与患者的认知功能损害有一定关系。酒依赖患者认知功能的损害会影响其正常职业功能及正常社会交往，从而加重患者的不良情绪，形成一个恶性循环。因此，如何改善酒依赖患者的认知功能是我们需要努力的方向。
+在既往的研究中已经证实，对于酒依赖患者，入院后仅给予酒精戒断及常规治疗，其认知功能的损害就会减轻【28，29】，但是对于患者及家属所期待的能正常生活还远远不够。在直流电刺激中，阳极会使刺激部位细胞出现去极化，而阴极会使刺激部位细胞超极化，从而使目标脑区出现兴奋或者抑制【30】。本研究所运用的HD-tDCS治疗，是在tDCS治疗的基础上进行改进的新兴技术，使其能更精确的刺激特定部位【31】，这样可以增强疗效，减少不良反应。
+三组酒依赖患者在基线时所评估的认知功能并无明显差异，但是在经过不同的干预治疗后，认知功能恢复情况不同。对照组酒依赖患者经常规治疗后，认知功能较前有恢复；伪刺激组患者经HD-tDCS伪刺激治疗后，认知功能也较前有恢复，但是经两两比较，对照组和伪刺激组认知功能并无明显差异。即HD-tDCS伪刺激治疗并不能明显改善男性酒依赖患者的认知功能。
+在MMSE和DST这两项认知评估结果中，三组男性酒依赖患者得分无明显的差异。TMT-B主要反映评受试者的注意力和认知目标转换能力；VFT主要反映受试者的工作记忆和执行控制能力；HVLT-R主要反映受试者的语言学习、记忆和再认能力，这三项认知功能评估结果均为经HD-tDCS治疗的正常刺激组表现更好、得分更高。结果表明，HD-tDCS治疗在改善酒依赖患者认知目标转换能力、执行控制能力和语言学习、记忆、再认能力上有一定效果。既往的研究中，Da Silva等人【32】发现经tDCS治疗可改善酒依赖患者执行控制能力。国内学者许晓敏【33】等人研究证明tDCS治疗对于降低酒依赖患者渴求、改善负面情绪、改善认知功能可起到一定作用，既往的结论与本文研究结果相一致，但本研究所选用的干预手段更精准，且对于认知目标转换能力、学习和记忆能力上有改善。综上所述，HD-tDCS治疗可更好地改善男性酒依赖患者认知功能。
+由于本研究所取样本均为河南省内男性酒依赖患者，所取样本有一定限制，且本研究仅有量表评估，缺乏客观的生物学指标，因此在结论上可能存在一定局限性。在未来希望能进一步深入研究。（简化以下）
+
+
+GBD 2019 Risk Factors Collaborators. Global burden of 87 risk factors in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet. 2020 Oct 17;396(10258):1223-1249. doi: 10.1016/S0140-6736(20)30752-2. PMID: 33069327; PMCID: PMC7566194.
+黄富林,周素华,司向,等. 中国居民饮酒行为和控制有害饮酒的公共卫生应对[J]. 中国慢性病预防与控制,2020,28(11):861-865.
+Huang Y, Wang Y, Wang H, Liu Z, Yu X, Yan J, Yu Y, Kou C, Xu X, Lu J, Wang Z, He S, Xu Y, He Y, Li T, Guo W, Tian H, Xu G, Xu X, Ma Y, Wang L, Wang L, Yan Y, Wang B, Xiao S, Zhou L, Li L, Tan L, Zhang T, Ma C, Li Q, Ding H, Geng H, Jia F, Shi J, Wang S, Zhang N, Du X, Du X, Wu Y. Prevalence of mental disorders in China: a cross-sectional epidemiological study. Lancet Psychiatry. 2019 Mar;6(3):211-224. doi: 10.1016/S2215-0366(18)30511-X. Epub 2019 Feb 18. Erratum in: Lancet Psychiatry. 2019 Apr.
+Cheng Hui G,Phillips Michael R,Zhang Yuhong,Wang Zhizhong. Relationship of drinking motives with alcohol consumption and alcohol-related problems identified in a representative community-based study from Ningxia, China[J]. Addictive behaviors,2017,74.
+向小军,王绪轶,汤宜朗,郝伟.我国酒精相关危害的现状与策略[J].中国药物滥用防治杂志,2015,21(06):368-372.
+季成叶.我国中学生饮酒行为流行现状[J].中国学校卫生,2010,31(10):1153-1156.
+沈渔邨精神病学[M]. 人民卫生出版社 , 陆林, 2017。
+Dethier M , Blairy S . Capacity for cognitive and emotional empathy in alcohol-dependent patients[J]. Psychology of Addictive Behaviors Journal of the Society of Psychologists in Addictive Behaviors,2011, 26(3):371.
+Ellingson JM, Fleming KA, Vergés A, et al. Working memory as a moderator of impulsivity and alcohol involvement: testing the cognitive-motivational theory of alcohol use with prospective and working memory updating data[J].Addict Behav,2014,39(11):1622-1631.
+Christiansen P, Bloor JF. Individualised but not general alcohol Stroop predicts alcohol use[J].Drug Alcohol Depend,2014,134:410-413.
+Weiland BJ, Sabbineni A, Calhoun VD, et al. Reduced left executive control network functional connectivity is associated with alcohol use disorders[J].Alcohol Clin Exp Res, 2014,38(9):2445- 2453. 
+李荔.脑电生物反馈治疗在物质依赖障碍中的应用[J].中国药物依赖性杂志,2013,22(02):81-84+94.
+蔡晖,姜静,王淑芳.团体认知行为治疗对酒依赖患者认知功能的效果[J].宁夏医学杂志,2019,41(10):956-958.
+ 刘红艳,黎宽,伍力,等. 重复经颅磁刺激对酒依赖患者认知功能与BDNF水平的影响[J]. 国际精神病学杂志,2024,51(3):863-867. 
+Boggio PS, Sultani N, Fecteau S, et al. Prefrontal cortex modulation using transcranial DC stimulation reduces alcohol craving: a double-blind, sham-controlled study[J].Drug Alcohol Depend,2008,92(1-3):55-60.
+Rizzo V, Terranova C, Crupi D, et al. Increased transcranial direct current stimulation after effects during concurrent peripheral electrical nerve stimulation[J]. Brain Stimul. 2014;7(1):113-121.
+tagg CJ, Nitsche MA. Physiological basis of transcranial direct current stimulation [J]. Neuroscientist. 2011;17(1):37-53.
+Park CH, Chang WH, Park JY,et al. Transcranial direct current stimulation increases resting state interhemispheric connectivity[J]. Neurosci Lett. 2013;539:7-10.
+den Uyl TE, Gladwin TE, Wiers RW. Transcranial direct current stimulation, implicit alcohol associations and craving[J].Biol Psychol,2015,105:37-42.
+da Silva MC, Conti CL, Klauss J, et al. Behavioral effects of transcranial direct current stimulation (tDCS) induced dorsolateral prefrontal cortex plasticity in alcohol dependence[J].J Physiol Paris,2013,107(6):493-502.
+杨雪,刘忠纯.tDCS治疗物质依赖的效果及对患者睡眠质量的影响[J].解放军预防医学杂志,2019,37(2):63-65,68.
+张进周. 经颅直流电刺激联合地西泮对酒精依赖患者的疗效[J]. 菏泽医学专科学校学报,2021,33(1):1-3,33. DOI:10.3969/j.issn.1008-4118.2021.01.001.
+张明园，何燕玲.精神科评定量表手册[M].长沙:湖南科学技术出版社，2015: 280-283．
+Pavuluri MN, Herbener ES, Sweeney JA. Affect regulation: a systems neuroscience perspective [J]. Neuropsychiatr Dis Treat. 2005;1(1):9-15.
+Klauss J, Anders QS, Felippe LV, et al. Multiple Sessions of Transcranial Direct Current Stimulation (tDCS) Reduced Craving and Relapses for Alcohol Use: A Randomized Placebo- Controlled Trial in Alcohol Use Disorder[J].Front Pharmacol,2018,9:716.
+den Uyl TE, Gladwin TE, Lindenmeyer J,et al. A Clinical Trial with Combined Transcranial Direct Current Stimulation and Attentional Bias Modification in Alcohol-Dependent Patients[J]. Alcohol Clin Exp Res,2018,42(10):1961-1969.
+陈静,钱敏才,林敏, 等.酒依赖脱瘾维持期患者复饮相关因素分析[J].临床精神医学杂志,2020,30(3):189-191.
+Katherine Stavro,Julie Pelletier,Stéphane Potvin. Widespread and sustained cognitive deficits in alcoholism: a meta‐analysis[J]. Addiction Biology,2013,18(2).
+王淑静,王传升,张慧,等. 酒依赖患者规范化治疗后认知功能改善分析[J]. 精神医学杂志,2020,33(3):214-216. DOI:10.3969/j.issn.2095-9346.2020.03.013.
+Brunoni AR, Amadera J, Berbel B,et al. A systematic review on reporting and assessment of adverse effects associated with transcranial direct current stimulation [J].Int J Neuropsychopharmacol. 2011;14(8):1133-1145.
+Kuo HI, Bikson M, Datta A, et al. Comparing cortical plasticity induced by conventional and high-definition 4 × 1 ring tDCS: a neurophysiological study[J].Brain Stimul,2013,6(4):644-648. 
+da Silva MC, Conti CL, Klauss J, et al. Behavioral effects of transcranial direct current stimulation (tDCS) induced dorsolateral prefrontal cortex plasticity in alcohol dependence[J].J Physiol Paris,2013,107(6):493-502.
+许晓敏,陈天真,刘学兵, 等.经颅直流电刺激治疗24例酒精使用障碍的疗效和安全性[J].神经疾病与精神卫生,2020,20(5):310-315.
+
+
+
+
+
+
+
+
+
+
+

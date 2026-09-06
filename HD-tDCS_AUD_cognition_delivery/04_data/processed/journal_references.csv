@@ -1,0 +1,11 @@
+ref_no,target_journal_family,title,doi,pmid,overlap,action
+22,Brain Stimulation,Comparing conventional vs HD 4×1 ring tDCS,10.1016/j.brs.2013.04.006,,Medium,RESEARCH
+23,Brain Sciences / MDPI,Is tDCS effective for cognitive dysfunction in SUDs? A systematic review,10.3390/brainsci14080754,,High,RESEARCH
+24,Neuropsychology (APA),tDCS and neuropsychological functioning in detoxified AUD inpatients,10.1080/07347324.2023.2243237,,High,FOLLOW-UP
+25,IJNP,Evidence-based guidelines and secondary meta-analysis for tDCS,10.1093/ijnp/pyaa051,,Low,RESEARCH
+26,Brain Stimulation,tDCS + ICT and early alcohol relapse,10.1016/j.brs.2021.10.386,,Low,RESEARCH
+33,Brain Stimulation,Frontal tDCS reduces alcohol relapse via DLPFC connectivity,10.1016/j.brs.2023.06.011,,Low,RESEARCH
+19,J Physiol Paris,Behavioral effects of tDCS in alcohol dependence,10.1016/j.jphysparis.2013.07.003,,Medium,RESEARCH
+20,IJNP,Targeted prefrontal tDCS RCT in alcohol dependence,10.1017/S1461145714000984,,Medium,RESEARCH
+15,Drug Alcohol Depend,Boggio 2008 alcohol craving tDCS,10.1016/j.drugalcdep.2007.06.011,,Low,RESEARCH
+11,Alcohol Clin Exp Res,Executive control network connectivity in AUD,10.1111/acer.12525,,Low,RELAX

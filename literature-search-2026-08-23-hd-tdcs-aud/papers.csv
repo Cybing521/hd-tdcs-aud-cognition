@@ -1,0 +1,14 @@
+priority,tier,citation,doi,pmid,venue,year,key_finding,in_manuscript,action
+core,A,"Zhang X et al. tDCS cognitive dysfunction SUD systematic review. Brain Sci 2024",10.3390/brainsci14080754,,Brain Sci,2024,22 studies; heterogeneous cognitive effects in SUD,yes,[23] verified
+core,A,"Dayal P et al. tDCS neuropsych alcohol dependence RCT. Neuropsychology 2023",10.1080/07347324.2023.2243237,,Neuropsychology,2023,Null cognitive benefit 10 sessions left DLPFC,yes,[24] verified
+core,A,"da Silva MC et al. tDCS DLPFC plasticity alcohol dependence. J Physiol Paris 2013",10.1016/j.jphysparis.2013.07.003,,J Physiol Paris,2013,Behavioral/cognitive improvement signal,yes,[19] verified
+core,A,"Kuo HI et al. HD vs conventional 4x1 ring tDCS. Brain Stimul 2013",10.1016/j.brs.2013.04.006,,Brain Stimul,2013,HD-tDCS focality evidence,yes,[22] verified
+core,A,"Alia-Klein N et al. Frontal tDCS relapse connectivity. Brain Stimul 2023",10.1016/j.brs.2023.06.011,,Brain Stimul,2023,Relapse reduction; not cognitive battery,yes,[33] verified
+core,A,"Antonelli M et al. tDCS + cue training relapse. Brain Stimul 2022",10.1016/j.brs.2021.10.386,,Brain Stimul,2022,Early relapse reduction,yes,[26] verified
+core,A,"Brunoni AR et al. tDCS evidence guidelines meta-analysis. IJNP 2021",10.1093/ijnp/pyaa051,,IJNP,2021,Addiction tDCS probably effective,yes,[25] verified
+add,B,"Bollen Z et al. tDCS severe AUD clinically oriented review. Clin EEG Neurosci 2022",10.1177/15500594211001212,,Clin EEG Neurosci,2022,Craving/relapse + cognitive control synthesis,no,ADD as new ref
+epidemiology,B,"Huang Y et al. Mental disorders prevalence China. Lancet Psychiatry 2019",10.1016/S2215-0366(18)30511-X,30792114,Lancet Psychiatry,2019,Lifetime AUD 4.4% China,yes,[3] fix wording to AUD not generic psychiatry
+epidemiology,B,"Stavro K et al. Cognitive deficits alcoholism meta-analysis. Addict Biol 2013",10.1111/adb.12063,,Addict Biol,2013,Sustained cognitive deficits,yes,[8] verify DOI in list
+epidemiology,B,"Potvin S et al. Cognitive impairments alcohol-dependent subjects. Front Psychiatry 2014",10.3389/fpsyt.2014.00078,,Front Psychiatry,2014,AUD cognitive impairment review,yes,REPLACE weak [29]
+negative,A,"Dayal 2023 null cognitive",10.1080/07347324.2023.2243237,,,,Contrasts with current positive findings,yes,Discuss parameter differences
+hd_gap,C,"No HD-tDCS AUD cognitive RCT in literature search",,,,2026,Novelty anchor for Discussion,,State explicitly with caution

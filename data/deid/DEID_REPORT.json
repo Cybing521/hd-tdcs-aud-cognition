@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "n_files": 7,
+  "files": [
+    {
+      "source": "03_分析表格/比较.xlsx",
+      "outputs": [
+        "data/deid/比较_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 77,
+          "n_cols_in": 24,
+          "n_cols_out": 24,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    },
+    {
+      "source": "03_分析表格/真刺激组.xlsx",
+      "outputs": [
+        "data/deid/真刺激组_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 21,
+          "n_cols_in": 22,
+          "n_cols_out": 22,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    },
+    {
+      "source": "03_分析表格/真刺激组比较.xlsx",
+      "outputs": [
+        "data/deid/真刺激组比较_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 21,
+          "n_cols_in": 24,
+          "n_cols_out": 24,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    },
+    {
+      "source": "03_分析表格/伪刺激组.xlsx",
+      "outputs": [
+        "data/deid/伪刺激组_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 27,
+          "n_cols_in": 22,
+          "n_cols_out": 22,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    },
+    {
+      "source": "03_分析表格/伪刺激组比较.xlsx",
+      "outputs": [
+        "data/deid/伪刺激组比较_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 27,
+          "n_cols_in": 24,
+          "n_cols_out": 24,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    },
+    {
+      "source": "03_分析表格/酒依赖组.xlsx",
+      "outputs": [
+        "data/deid/酒依赖组_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 29,
+          "n_cols_in": 22,
+          "n_cols_out": 22,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    },
+    {
+      "source": "03_分析表格/酒依赖比较.xlsx",
+      "outputs": [
+        "data/deid/酒依赖比较_deid.xlsx"
+      ],
+      "sheets": {
+        "Sheet1": {
+          "n_rows": 29,
+          "n_cols_in": 24,
+          "n_cols_out": 24,
+          "actions": {
+            "name_column": "dropped_direct_identifier",
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet2": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        },
+        "Sheet3": {
+          "n_rows": 0,
+          "n_cols_in": 0,
+          "n_cols_out": 1,
+          "actions": {
+            "study_id": "stable_hash_study_id"
+          }
+        }
+      }
+    }
+  ],
+  "policy": "Raw identified sources gitignored; deid outputs under data/deid/ are commit targets.",
+  "study_id_note": "study_id values are stable hashes derived locally from identified names; names are not stored in this report or in data/deid tables."
+}

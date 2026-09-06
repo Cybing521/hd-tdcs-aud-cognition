@@ -1,0 +1,49 @@
+{
+  "study_design": "Single-blind, single-center, parallel three-arm RCT",
+  "source": "01_论文正文/知tDCS对酒依赖患者认知功能的影响(1).txt + 04_data/processed/data_cleaning_log.json",
+  "verified_date": "2026-08-23",
+  "flow": {
+    "enrolled_assessed": 85,
+    "excluded_before_randomization": 0,
+    "randomized": 85,
+    "allocated": {
+      "control": 29,
+      "active_hd_tdcs": 28,
+      "sham_hd_tdcs": 28
+    },
+    "discontinued_intervention": {
+      "reason": "Early hospital discharge before completing 14 sessions",
+      "control": 0,
+      "active_hd_tdcs": 1,
+      "sham_hd_tdcs": 2,
+      "total": 3
+    },
+    "after_discontinuation": {
+      "control": 29,
+      "active_hd_tdcs": 27,
+      "sham_hd_tdcs": 26,
+      "total": 82
+    },
+    "excluded_from_analysis": {
+      "reason": "Duplicate or misclassified records identified during data verification",
+      "control": 0,
+      "active_hd_tdcs": 6,
+      "sham_hd_tdcs": 0,
+      "total_records_removed": 5,
+      "note": "Six active-arm erroneous records removed; one participant retained/reassigned in sham after deduplication (net 82 to 77)."
+    },
+    "analyzed": {
+      "control": 29,
+      "active_hd_tdcs": 21,
+      "sham_hd_tdcs": 27,
+      "total": 77
+    }
+  },
+  "integrity_checks": {
+    "randomized_sum": 85,
+    "analyzed_sum": 77,
+    "active_balance": "28 - 1 discontinued - 6 excluded = 21",
+    "sham_balance": "28 - 2 discontinued + 1 reassigned after deduplication = 27",
+    "control_balance": "29 = 29"
+  }
+}

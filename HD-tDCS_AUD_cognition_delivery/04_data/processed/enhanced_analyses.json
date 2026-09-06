@@ -1,0 +1,536 @@
+{
+  "ancova": {
+    "MMSE": {
+      "F": 1.885,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.15909,
+      "partial_eta_sq": 0.049,
+      "slope_homogeneity_P": 0.962,
+      "slope_homogeneity_F": 0.039,
+      "adjusted_means": {
+        "active": 28.31,
+        "sham": 28.04,
+        "control": 27.73
+      },
+      "baseline_mean": 26.55,
+      "n": 77
+    },
+    "TMT-B": {
+      "F": 16.668,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.0,
+      "partial_eta_sq": 0.313,
+      "slope_homogeneity_P": 0.118,
+      "slope_homogeneity_F": 2.206,
+      "adjusted_means": {
+        "active": 107.04,
+        "sham": 137.89,
+        "control": 140.04
+      },
+      "baseline_mean": 169.03,
+      "n": 77
+    },
+    "DST": {
+      "F": 1.413,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.24995,
+      "partial_eta_sq": 0.037,
+      "slope_homogeneity_P": 0.441,
+      "slope_homogeneity_F": 0.828,
+      "adjusted_means": {
+        "active": 13.88,
+        "sham": 13.16,
+        "control": 13.35
+      },
+      "baseline_mean": 12.29,
+      "n": 77
+    },
+    "VFT": {
+      "F": 8.546,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.00046,
+      "partial_eta_sq": 0.19,
+      "slope_homogeneity_P": 0.62,
+      "slope_homogeneity_F": 0.482,
+      "adjusted_means": {
+        "active": 23.36,
+        "sham": 20.05,
+        "control": 20.45
+      },
+      "baseline_mean": 18.79,
+      "n": 77
+    },
+    "HVLT-R": {
+      "F": 13.915,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.0,
+      "partial_eta_sq": 0.276,
+      "slope_homogeneity_P": 0.691,
+      "slope_homogeneity_F": 0.371,
+      "adjusted_means": {
+        "active": 26.81,
+        "sham": 21.88,
+        "control": 22.94
+      },
+      "baseline_mean": 19.27,
+      "n": 77
+    }
+  },
+  "change_sd": [
+    {
+      "outcome": "MMSE",
+      "active": {
+        "mean": 1.57,
+        "sd": 1.12,
+        "n": 21
+      },
+      "sham": {
+        "mean": 1.67,
+        "sd": 1.33,
+        "n": 27
+      },
+      "control": {
+        "mean": 1.17,
+        "sd": 1.2,
+        "n": 29
+      }
+    },
+    {
+      "outcome": "TMT-B",
+      "active": {
+        "mean": -58.67,
+        "sd": 28.34,
+        "n": 21
+      },
+      "sham": {
+        "mean": -35.07,
+        "sd": 31.53,
+        "n": 27
+      },
+      "control": {
+        "mean": -27.72,
+        "sd": 34.05,
+        "n": 29
+      }
+    },
+    {
+      "outcome": "DST",
+      "active": {
+        "mean": 1.57,
+        "sd": 1.03,
+        "n": 21
+      },
+      "sham": {
+        "mean": 0.89,
+        "sd": 1.53,
+        "n": 27
+      },
+      "control": {
+        "mean": 1.07,
+        "sd": 1.83,
+        "n": 29
+      }
+    },
+    {
+      "outcome": "VFT",
+      "active": {
+        "mean": 4.33,
+        "sd": 3.65,
+        "n": 21
+      },
+      "sham": {
+        "mean": 1.44,
+        "sd": 2.12,
+        "n": 27
+      },
+      "control": {
+        "mean": 1.66,
+        "sd": 4.33,
+        "n": 29
+      }
+    },
+    {
+      "outcome": "HVLT-R",
+      "active": {
+        "mean": 7.24,
+        "sd": 3.32,
+        "n": 21
+      },
+      "sham": {
+        "mean": 2.85,
+        "sd": 3.1,
+        "n": 27
+      },
+      "control": {
+        "mean": 3.66,
+        "sd": 4.15,
+        "n": 29
+      }
+    }
+  ],
+  "effect_sizes_post_ci": {
+    "MMSE": {
+      "active_vs_sham": {
+        "d": 0.59,
+        "ci_lo": 0.01,
+        "ci_hi": 1.17,
+        "g": 0.58,
+        "g_ci_lo": -0.0,
+        "g_ci_hi": 1.16
+      },
+      "active_vs_control": {
+        "d": 0.59,
+        "ci_lo": 0.02,
+        "ci_hi": 1.16,
+        "g": 0.58,
+        "g_ci_lo": 0.01,
+        "g_ci_hi": 1.15
+      }
+    },
+    "TMT-B": {
+      "active_vs_sham": {
+        "d": -0.96,
+        "ci_lo": -1.56,
+        "ci_hi": -0.36,
+        "g": -0.94,
+        "g_ci_lo": -1.54,
+        "g_ci_hi": -0.34
+      },
+      "active_vs_control": {
+        "d": -0.66,
+        "ci_lo": -1.23,
+        "ci_hi": -0.08,
+        "g": -0.65,
+        "g_ci_lo": -1.22,
+        "g_ci_hi": -0.07
+      }
+    },
+    "DST": {
+      "active_vs_sham": {
+        "d": 0.41,
+        "ci_lo": -0.16,
+        "ci_hi": 0.99,
+        "g": 0.41,
+        "g_ci_lo": -0.17,
+        "g_ci_hi": 0.98
+      },
+      "active_vs_control": {
+        "d": 0.25,
+        "ci_lo": -0.32,
+        "ci_hi": 0.81,
+        "g": 0.24,
+        "g_ci_lo": -0.32,
+        "g_ci_hi": 0.81
+      }
+    },
+    "VFT": {
+      "active_vs_sham": {
+        "d": 1.05,
+        "ci_lo": 0.44,
+        "ci_hi": 1.66,
+        "g": 1.03,
+        "g_ci_lo": 0.43,
+        "g_ci_hi": 1.64
+      },
+      "active_vs_control": {
+        "d": 0.67,
+        "ci_lo": 0.09,
+        "ci_hi": 1.24,
+        "g": 0.66,
+        "g_ci_lo": 0.08,
+        "g_ci_hi": 1.23
+      }
+    },
+    "HVLT-R": {
+      "active_vs_sham": {
+        "d": 1.3,
+        "ci_lo": 0.67,
+        "ci_hi": 1.93,
+        "g": 1.28,
+        "g_ci_lo": 0.65,
+        "g_ci_hi": 1.9
+      },
+      "active_vs_control": {
+        "d": 0.82,
+        "ci_lo": 0.23,
+        "ci_hi": 1.4,
+        "g": 0.81,
+        "g_ci_lo": 0.22,
+        "g_ci_hi": 1.39
+      }
+    }
+  },
+  "effect_sizes_change_ci": {
+    "MMSE": {
+      "active_vs_sham": {
+        "d": -0.08,
+        "ci_lo": -0.65,
+        "ci_hi": 0.49,
+        "g": -0.08,
+        "g_ci_lo": -0.65,
+        "g_ci_hi": 0.5
+      },
+      "active_vs_control": {
+        "d": 0.34,
+        "ci_lo": -0.22,
+        "ci_hi": 0.91,
+        "g": 0.34,
+        "g_ci_lo": -0.23,
+        "g_ci_hi": 0.9
+      }
+    },
+    "TMT-B": {
+      "active_vs_sham": {
+        "d": -0.78,
+        "ci_lo": -1.37,
+        "ci_hi": -0.19,
+        "g": -0.77,
+        "g_ci_lo": -1.36,
+        "g_ci_hi": -0.18
+      },
+      "active_vs_control": {
+        "d": -0.97,
+        "ci_lo": -1.57,
+        "ci_hi": -0.38,
+        "g": -0.96,
+        "g_ci_lo": -1.55,
+        "g_ci_hi": -0.37
+      }
+    },
+    "DST": {
+      "active_vs_sham": {
+        "d": 0.51,
+        "ci_lo": -0.07,
+        "ci_hi": 1.09,
+        "g": 0.5,
+        "g_ci_lo": -0.08,
+        "g_ci_hi": 1.08
+      },
+      "active_vs_control": {
+        "d": 0.32,
+        "ci_lo": -0.24,
+        "ci_hi": 0.89,
+        "g": 0.32,
+        "g_ci_lo": -0.25,
+        "g_ci_hi": 0.88
+      }
+    },
+    "VFT": {
+      "active_vs_sham": {
+        "d": 1.0,
+        "ci_lo": 0.4,
+        "ci_hi": 1.61,
+        "g": 0.98,
+        "g_ci_lo": 0.38,
+        "g_ci_hi": 1.59
+      },
+      "active_vs_control": {
+        "d": 0.66,
+        "ci_lo": 0.08,
+        "ci_hi": 1.24,
+        "g": 0.65,
+        "g_ci_lo": 0.07,
+        "g_ci_hi": 1.23
+      }
+    },
+    "HVLT-R": {
+      "active_vs_sham": {
+        "d": 1.37,
+        "ci_lo": 0.74,
+        "ci_hi": 2.01,
+        "g": 1.35,
+        "g_ci_lo": 0.72,
+        "g_ci_hi": 1.98
+      },
+      "active_vs_control": {
+        "d": 0.94,
+        "ci_lo": 0.35,
+        "ci_hi": 1.53,
+        "g": 0.92,
+        "g_ci_lo": 0.33,
+        "g_ci_hi": 1.51
+      }
+    }
+  },
+  "correlation_matrix": {
+    "cells": [
+      {
+        "drinking": "age_first_drink",
+        "cognition": "MMSE",
+        "r": -0.087,
+        "P": 0.45225,
+        "n": 77,
+        "q_bh": 0.565
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": "TMT-B",
+        "r": 0.108,
+        "P": 0.35045,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": "DST",
+        "r": -0.18,
+        "P": 0.1177,
+        "n": 77,
+        "q_bh": 0.262
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": "VFT",
+        "r": -0.108,
+        "P": 0.35192,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": "HVLT-R",
+        "r": -0.155,
+        "P": 0.1776,
+        "n": 77,
+        "q_bh": 0.355
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": "MMSE",
+        "r": -0.033,
+        "P": 0.77509,
+        "n": 77,
+        "q_bh": 0.816
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": "TMT-B",
+        "r": 0.423,
+        "P": 0.00013,
+        "n": 77,
+        "q_bh": 0.003
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": "DST",
+        "r": -0.092,
+        "P": 0.42562,
+        "n": 77,
+        "q_bh": 0.565
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": "VFT",
+        "r": -0.203,
+        "P": 0.07733,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": "HVLT-R",
+        "r": -0.107,
+        "P": 0.35563,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": "MMSE",
+        "r": -0.122,
+        "P": 0.29066,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": "TMT-B",
+        "r": 0.327,
+        "P": 0.00374,
+        "n": 77,
+        "q_bh": 0.037
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": "DST",
+        "r": -0.214,
+        "P": 0.06215,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": "VFT",
+        "r": -0.266,
+        "P": 0.01922,
+        "n": 77,
+        "q_bh": 0.128
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": "HVLT-R",
+        "r": -0.203,
+        "P": 0.07605,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": "MMSE",
+        "r": 0.041,
+        "P": 0.72021,
+        "n": 77,
+        "q_bh": 0.8
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": "TMT-B",
+        "r": 0.198,
+        "P": 0.08353,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": "DST",
+        "r": 0.058,
+        "P": 0.61347,
+        "n": 77,
+        "q_bh": 0.722
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": "VFT",
+        "r": -0.227,
+        "P": 0.04676,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": "HVLT-R",
+        "r": -0.002,
+        "P": 0.98561,
+        "n": 77,
+        "q_bh": 0.986
+      }
+    ],
+    "n_tests": 20,
+    "nominal_sig_count": 4,
+    "fdr_sig_count": 2,
+    "min_q": 0.003
+  },
+  "levene_post": {
+    "MMSE": 0.878,
+    "TMT-B": 0.16,
+    "DST": 0.241,
+    "VFT": 0.106,
+    "HVLT-R": 0.245
+  },
+  "total_n": 77
+}

@@ -1,0 +1,25 @@
+.venv/
+.matplotlib/
+.work/
+__pycache__/
+*.pyc
+.DS_Store
+05_ccfa_governance/
+
+# Raw identified clinical data (local only; commit deid copies under data/deid/)
+data/raw_identified/
+03_分析表格/比较.xlsx
+03_分析表格/真刺激组.xlsx
+03_分析表格/真刺激组比较.xlsx
+03_分析表格/伪刺激组.xlsx
+03_分析表格/伪刺激组比较.xlsx
+03_分析表格/酒依赖组.xlsx
+03_分析表格/酒依赖比较.xlsx
+宫颈癌病例.xlsx
+良性病例.xlsx
+222.xlsx
+*住院号*原始*
+
+# Keep de-identified analysis tables
+!data/deid/
+!data/deid/**

@@ -1,0 +1,487 @@
+{
+  "n": {
+    "1": 21,
+    "2": 27,
+    "3": 29
+  },
+  "tables": {
+    "table1": [
+      {
+        "variable": "年龄",
+        "active": "36.48±6.49",
+        "sham": "35.52±9.12",
+        "control": "38.14±7.66",
+        "F": 0.783,
+        "P": 0.461,
+        "method": "ANOVA"
+      },
+      {
+        "variable": "教育年限",
+        "active": "11.00±2.97",
+        "sham": "11.11±2.68",
+        "control": "10.69±2.88",
+        "F": 0.165,
+        "P": 0.848,
+        "method": "ANOVA"
+      },
+      {
+        "variable": "首次饮酒年龄",
+        "active": "16.14±3.61",
+        "sham": "15.78±3.06",
+        "control": "15.14±3.54",
+        "F": 0.568,
+        "P": 0.569,
+        "method": "ANOVA"
+      },
+      {
+        "variable": "累计使用时间",
+        "active": "20.33±5.83",
+        "sham": "19.70±8.40",
+        "control": "22.66±6.69",
+        "F": 1.318,
+        "P": 0.274,
+        "method": "ANOVA"
+      },
+      {
+        "variable": "成瘾时间",
+        "active": "7.24±5.04",
+        "sham": "5.19±3.48",
+        "control": "7.03±5.30",
+        "F": 1.521,
+        "P": 0.225,
+        "method": "ANOVA"
+      },
+      {
+        "variable": "戒酒次数",
+        "active": "3.62±2.89",
+        "sham": "4.44±2.68",
+        "control": "4.72±3.52",
+        "F": 0.816,
+        "P": 0.446,
+        "method": "ANOVA"
+      }
+    ],
+    "table_baseline": [
+      {
+        "outcome": "MMSE",
+        "active": "27.05±1.77",
+        "sham": "26.11±1.45",
+        "control": "26.59±1.78",
+        "F": 1.869,
+        "P": 0.162,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "TMT-B",
+        "active": "158.29±61.87",
+        "sham": "181.78±82.18",
+        "control": "164.93±78.06",
+        "F": 0.639,
+        "P": 0.531,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "DST",
+        "active": "12.38±1.94",
+        "sham": "12.22±2.24",
+        "control": "12.28±2.37",
+        "F": 0.031,
+        "P": 0.97,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "VFT",
+        "active": "19.48±5.21",
+        "sham": "18.26±4.49",
+        "control": "18.79±6.50",
+        "F": 0.288,
+        "P": 0.751,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "HVLT-R",
+        "active": "20.48±6.20",
+        "sham": "18.30±4.10",
+        "control": "19.31±6.75",
+        "F": 0.838,
+        "P": 0.437,
+        "method": "ANOVA"
+      }
+    ],
+    "table_post": [
+      {
+        "outcome": "MMSE",
+        "active": "28.62±1.40",
+        "sham": "27.78±1.45",
+        "control": "27.76±1.50",
+        "F": 2.61,
+        "P": 0.08,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "TMT-B",
+        "active": "99.62±39.65",
+        "sham": "146.70±55.29",
+        "control": "137.21±66.85",
+        "F": 4.454,
+        "P": 0.015,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "DST",
+        "active": "13.95±2.06",
+        "sham": "13.11±2.03",
+        "control": "13.34±2.72",
+        "F": 0.807,
+        "P": 0.45,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "VFT",
+        "active": "23.81±4.09",
+        "sham": "19.70±3.77",
+        "control": "20.45±5.62",
+        "F": 5.099,
+        "P": 0.008,
+        "method": "ANOVA"
+      },
+      {
+        "outcome": "HVLT-R",
+        "active": "27.71±5.48",
+        "sham": "21.15±4.69",
+        "control": "22.97±6.02",
+        "F": 8.958,
+        "P": 0.0,
+        "method": "ANOVA"
+      }
+    ]
+  },
+  "pairwise_post": {
+    "TMT-B": {
+      "overall_P": 0.015,
+      "active_vs_sham": 0.002,
+      "active_vs_control": 0.026,
+      "sham_vs_control": 0.566
+    },
+    "VFT": {
+      "overall_P": 0.008,
+      "active_vs_sham": 0.001,
+      "active_vs_control": 0.024,
+      "sham_vs_control": 0.566
+    },
+    "HVLT-R": {
+      "overall_P": 0.0,
+      "active_vs_sham": 0.0,
+      "active_vs_control": 0.006,
+      "sham_vs_control": 0.215
+    }
+  },
+  "correlation": {
+    "significant": [
+      {
+        "drinking": "累计使用时间",
+        "cognition": "TMT-B",
+        "r": 0.423,
+        "P": 0.0,
+        "n": 77
+      },
+      {
+        "drinking": "成瘾时间",
+        "cognition": "TMT-B",
+        "r": 0.327,
+        "P": 0.004,
+        "n": 77
+      },
+      {
+        "drinking": "成瘾时间",
+        "cognition": "VFT",
+        "r": -0.266,
+        "P": 0.019,
+        "n": 77
+      },
+      {
+        "drinking": "戒酒次数",
+        "cognition": "VFT",
+        "r": -0.227,
+        "P": 0.047,
+        "n": 77
+      }
+    ]
+  },
+  "effect_sizes": {
+    "TMT-B": {
+      "active_vs_sham_d": -0.96,
+      "active_vs_control_d": -0.66
+    },
+    "VFT": {
+      "active_vs_sham_d": 1.05,
+      "active_vs_control_d": 0.67
+    },
+    "HVLT-R": {
+      "active_vs_sham_d": 1.3,
+      "active_vs_control_d": 0.82
+    }
+  },
+  "multiplicity": {
+    "method": "Benjamini-Hochberg FDR across five post-intervention omnibus tests",
+    "primary_outcomes": [
+      "TMT-B",
+      "VFT",
+      "HVLT-R"
+    ],
+    "secondary_outcomes": [
+      "MMSE",
+      "DST"
+    ],
+    "raw_p": {
+      "MMSE": 0.08,
+      "TMT-B": 0.015,
+      "DST": 0.45,
+      "VFT": 0.008,
+      "HVLT-R": 0.0
+    },
+    "fdr_adjusted_p": {
+      "DST": 0.45,
+      "MMSE": 0.1,
+      "TMT-B": 0.025,
+      "VFT": 0.02,
+      "HVLT-R": 0.0
+    },
+    "primary_significant_at_fdr_0_05": {
+      "TMT-B": true,
+      "VFT": true,
+      "HVLT-R": true
+    }
+  },
+  "within_group_change": [
+    {
+      "outcome": "MMSE",
+      "group": "active",
+      "pre": "27.05±1.77",
+      "post": "28.62±1.40",
+      "delta": 1.57,
+      "t": -6.423,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "MMSE",
+      "group": "sham",
+      "pre": "26.11±1.45",
+      "post": "27.78±1.45",
+      "delta": 1.67,
+      "t": -6.511,
+      "P": 0.0,
+      "n": 27
+    },
+    {
+      "outcome": "MMSE",
+      "group": "control",
+      "pre": "26.59±1.78",
+      "post": "27.76±1.50",
+      "delta": 1.17,
+      "t": -5.273,
+      "P": 0.0,
+      "n": 29
+    },
+    {
+      "outcome": "TMT-B",
+      "group": "active",
+      "pre": "158.29±61.87",
+      "post": "99.62±39.65",
+      "delta": -58.67,
+      "t": 9.485,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "TMT-B",
+      "group": "sham",
+      "pre": "181.78±82.18",
+      "post": "146.70±55.29",
+      "delta": -35.07,
+      "t": 5.78,
+      "P": 0.0,
+      "n": 27
+    },
+    {
+      "outcome": "TMT-B",
+      "group": "control",
+      "pre": "164.93±78.06",
+      "post": "137.21±66.85",
+      "delta": -27.72,
+      "t": 4.385,
+      "P": 0.0001,
+      "n": 29
+    },
+    {
+      "outcome": "DST",
+      "group": "active",
+      "pre": "12.38±1.94",
+      "post": "13.95±2.06",
+      "delta": 1.57,
+      "t": -7.004,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "DST",
+      "group": "sham",
+      "pre": "12.22±2.24",
+      "post": "13.11±2.03",
+      "delta": 0.89,
+      "t": -3.024,
+      "P": 0.0056,
+      "n": 27
+    },
+    {
+      "outcome": "DST",
+      "group": "control",
+      "pre": "12.28±2.37",
+      "post": "13.34±2.72",
+      "delta": 1.07,
+      "t": -3.144,
+      "P": 0.0039,
+      "n": 29
+    },
+    {
+      "outcome": "VFT",
+      "group": "active",
+      "pre": "19.48±5.21",
+      "post": "23.81±4.09",
+      "delta": 4.33,
+      "t": -5.438,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "VFT",
+      "group": "sham",
+      "pre": "18.26±4.49",
+      "post": "19.70±3.77",
+      "delta": 1.44,
+      "t": -3.543,
+      "P": 0.0015,
+      "n": 27
+    },
+    {
+      "outcome": "VFT",
+      "group": "control",
+      "pre": "18.79±6.50",
+      "post": "20.45±5.62",
+      "delta": 1.66,
+      "t": -2.059,
+      "P": 0.0489,
+      "n": 29
+    },
+    {
+      "outcome": "HVLT-R",
+      "group": "active",
+      "pre": "20.48±6.20",
+      "post": "27.71±5.48",
+      "delta": 7.24,
+      "t": -10.005,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "HVLT-R",
+      "group": "sham",
+      "pre": "18.30±4.10",
+      "post": "21.15±4.69",
+      "delta": 2.85,
+      "t": -4.785,
+      "P": 0.0001,
+      "n": 27
+    },
+    {
+      "outcome": "HVLT-R",
+      "group": "control",
+      "pre": "19.31±6.75",
+      "post": "22.97±6.02",
+      "delta": 3.66,
+      "t": -4.741,
+      "P": 0.0001,
+      "n": 29
+    }
+  ],
+  "change_score_anova": [
+    {
+      "outcome": "MMSE",
+      "active_delta": 1.57,
+      "sham_delta": 1.67,
+      "control_delta": 1.17,
+      "F": 1.267,
+      "P": 0.2878,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "TMT-B",
+      "active_delta": -58.67,
+      "sham_delta": -35.07,
+      "control_delta": -27.72,
+      "F": 6.079,
+      "P": 0.0036,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "DST",
+      "active_delta": 1.57,
+      "sham_delta": 0.89,
+      "control_delta": 1.07,
+      "F": 1.213,
+      "P": 0.3033,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "VFT",
+      "active_delta": 4.33,
+      "sham_delta": 1.44,
+      "control_delta": 1.66,
+      "F": 4.835,
+      "P": 0.0094,
+      "method": "Welch"
+    },
+    {
+      "outcome": "HVLT-R",
+      "active_delta": 7.24,
+      "sham_delta": 2.85,
+      "control_delta": 3.66,
+      "F": 9.71,
+      "P": 0.0002,
+      "method": "ANOVA"
+    }
+  ],
+  "change_score_pairwise": {
+    "TMT-B": {
+      "overall_P": 0.0036,
+      "active_vs_sham": 0.01,
+      "active_vs_control": 0.0014,
+      "sham_vs_control": 0.4067
+    },
+    "VFT": {
+      "overall_P": 0.0094,
+      "active_vs_sham": 0.003,
+      "active_vs_control": 0.0222,
+      "sham_vs_control": 0.8163
+    },
+    "HVLT-R": {
+      "overall_P": 0.0002,
+      "active_vs_sham": 0.0,
+      "active_vs_control": 0.002,
+      "sham_vs_control": 0.4182
+    }
+  },
+  "audit": {
+    "removed": [],
+    "added": [],
+    "reassigned": [
+      {
+        "participant_id": "P-E",
+        "新分组": 2,
+        "保留年龄": 38
+      }
+    ]
+  },
+  "total_n": 77
+}

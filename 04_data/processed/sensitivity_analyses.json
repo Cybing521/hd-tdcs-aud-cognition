@@ -1,0 +1,254 @@
+{
+ "S1_primary": {
+  "n_active": 21,
+  "n_sham": 27,
+  "n_control": 29,
+  "TMT-B": {
+   "levene_P": 0.1603,
+   "omnibus_method": "classic",
+   "omnibus_F": 4.454,
+   "omnibus_P": 0.0149,
+   "ancova_F": 16.668,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,73",
+   "kw_H": 8.507,
+   "kw_P": 0.0142,
+   "active_vs_sham_mean_diff": -47.08,
+   "active_vs_sham_P": 0.0019,
+   "cohen_d": -0.96,
+   "d_CI": [
+    -1.56,
+    -0.36
+   ],
+   "hedges_g": -0.94
+  },
+  "VFT": {
+   "levene_P": 0.1063,
+   "omnibus_method": "classic",
+   "omnibus_F": 5.099,
+   "omnibus_P": 0.0084,
+   "ancova_F": 8.546,
+   "ancova_P": 0.0005,
+   "ancova_df": "2,73",
+   "kw_H": 10.285,
+   "kw_P": 0.0058,
+   "active_vs_sham_mean_diff": 4.11,
+   "active_vs_sham_P": 0.0008,
+   "cohen_d": 1.05,
+   "d_CI": [
+    0.44,
+    1.66
+   ],
+   "hedges_g": 1.03
+  },
+  "HVLT-R": {
+   "levene_P": 0.2446,
+   "omnibus_method": "classic",
+   "omnibus_F": 8.958,
+   "omnibus_P": 0.0003,
+   "ancova_F": 13.915,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,73",
+   "kw_H": 14.448,
+   "kw_P": 0.0007,
+   "active_vs_sham_mean_diff": 6.57,
+   "active_vs_sham_P": "<0.001",
+   "cohen_d": 1.3,
+   "d_CI": [
+    0.67,
+    1.93
+   ],
+   "hedges_g": 1.28
+  }
+ },
+ "S2_lei_as_active": {
+  "n_active": 22,
+  "n_sham": 26,
+  "n_control": 29,
+  "TMT-B": {
+   "levene_P": 0.1465,
+   "omnibus_method": "classic",
+   "omnibus_F": 5.382,
+   "omnibus_P": 0.0066,
+   "ancova_F": 17.289,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,73",
+   "kw_H": 10.431,
+   "kw_P": 0.0054,
+   "active_vs_sham_mean_diff": -51.3,
+   "active_vs_sham_P": 0.0006,
+   "cohen_d": -1.07,
+   "d_CI": [
+    -1.68,
+    -0.46
+   ],
+   "hedges_g": -1.05
+  },
+  "VFT": {
+   "levene_P": 0.0915,
+   "omnibus_method": "classic",
+   "omnibus_F": 5.612,
+   "omnibus_P": 0.0054,
+   "ancova_F": 9.295,
+   "ancova_P": 0.0003,
+   "ancova_df": "2,73",
+   "kw_H": 11.701,
+   "kw_P": 0.0029,
+   "active_vs_sham_mean_diff": 4.28,
+   "active_vs_sham_P": 0.0004,
+   "cohen_d": 1.11,
+   "d_CI": [
+    0.5,
+    1.72
+   ],
+   "hedges_g": 1.09
+  },
+  "HVLT-R": {
+   "levene_P": 0.1314,
+   "omnibus_method": "classic",
+   "omnibus_F": 10.942,
+   "omnibus_P": "<0.001",
+   "ancova_F": 15.531,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,73",
+   "kw_H": 17.023,
+   "kw_P": 0.0002,
+   "active_vs_sham_mean_diff": 7.09,
+   "active_vs_sham_P": "<0.001",
+   "cohen_d": 1.46,
+   "d_CI": [
+    0.82,
+    2.11
+   ],
+   "hedges_g": 1.44
+  }
+ },
+ "S3_lei_excluded": {
+  "n_active": 21,
+  "n_sham": 26,
+  "n_control": 29,
+  "TMT-B": {
+   "levene_P": 0.1618,
+   "omnibus_method": "classic",
+   "omnibus_F": 4.886,
+   "omnibus_P": 0.0102,
+   "ancova_F": 17.008,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,72",
+   "kw_H": 9.372,
+   "kw_P": 0.0092,
+   "active_vs_sham_mean_diff": -50.0,
+   "active_vs_sham_P": 0.001,
+   "cohen_d": -1.04,
+   "d_CI": [
+    -1.65,
+    -0.42
+   ],
+   "hedges_g": -1.02
+  },
+  "VFT": {
+   "levene_P": 0.1018,
+   "omnibus_method": "classic",
+   "omnibus_F": 5.339,
+   "omnibus_P": 0.0069,
+   "ancova_F": 8.915,
+   "ancova_P": 0.0003,
+   "ancova_df": "2,72",
+   "kw_H": 10.997,
+   "kw_P": 0.0041,
+   "active_vs_sham_mean_diff": 4.27,
+   "active_vs_sham_P": 0.0005,
+   "cohen_d": 1.09,
+   "d_CI": [
+    0.48,
+    1.71
+   ],
+   "hedges_g": 1.08
+  },
+  "HVLT-R": {
+   "levene_P": 0.1388,
+   "omnibus_method": "classic",
+   "omnibus_F": 10.063,
+   "omnibus_P": 0.0001,
+   "ancova_F": 14.942,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,72",
+   "kw_H": 15.875,
+   "kw_P": 0.0004,
+   "active_vs_sham_mean_diff": 6.95,
+   "active_vs_sham_P": "<0.001",
+   "cohen_d": 1.42,
+   "d_CI": [
+    0.78,
+    2.07
+   ],
+   "hedges_g": 1.4
+  }
+ },
+ "S4_as_recorded": {
+  "n_active": 26,
+  "n_sham": 22,
+  "n_control": 29,
+  "TMT-B": {
+   "levene_P": 0.0605,
+   "omnibus_method": "classic",
+   "omnibus_F": 6.459,
+   "omnibus_P": 0.0026,
+   "ancova_F": 13.304,
+   "ancova_P": "<0.001",
+   "ancova_df": "2,73",
+   "kw_H": 11.661,
+   "kw_P": 0.0029,
+   "active_vs_sham_mean_diff": -55.78,
+   "active_vs_sham_P": 0.0002,
+   "cohen_d": -1.2,
+   "d_CI": [
+    -1.81,
+    -0.58
+   ],
+   "hedges_g": -1.18
+  },
+  "VFT": {
+   "levene_P": 0.087,
+   "omnibus_method": "classic",
+   "omnibus_F": 5.848,
+   "omnibus_P": 0.0044,
+   "ancova_F": 9.201,
+   "ancova_P": 0.0003,
+   "ancova_df": "2,73",
+   "kw_H": 11.948,
+   "kw_P": 0.0025,
+   "active_vs_sham_mean_diff": 4.36,
+   "active_vs_sham_P": 0.0003,
+   "cohen_d": 1.14,
+   "d_CI": [
+    0.52,
+    1.75
+   ],
+   "hedges_g": 1.12
+  },
+  "HVLT-R": {
+   "levene_P": 0.0793,
+   "omnibus_method": "classic",
+   "omnibus_F": 4.713,
+   "omnibus_P": 0.0118,
+   "ancova_F": 9.151,
+   "ancova_P": 0.0003,
+   "ancova_df": "2,73",
+   "kw_H": 7.874,
+   "kw_P": 0.0195,
+   "active_vs_sham_mean_diff": 4.91,
+   "active_vs_sham_P": 0.0035,
+   "cohen_d": 0.89,
+   "d_CI": [
+    0.29,
+    1.49
+   ],
+   "hedges_g": 0.88
+  }
+ },
+ "minimum_detectable_effect": {
+  "min_detectable_d_80power_21v27": 0.83
+ },
+ "note": "S1 = published cleaned set; S2 = P-E analyzed in active; S3 = P-E excluded; S4 = all five ambiguous participants analyzed in active (as-recorded arms, randomization log disregarded). TMT-B lower is better; negative d favors active on TMT-B."
+}

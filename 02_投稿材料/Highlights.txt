@@ -1,0 +1,7 @@
+Highlights (Brain Stimulation submission form)
+
+• Bilateral 4x1 HD-tDCS beat sham on TMT-B, VFT, and HVLT-R in AUD
+• Active-vs-sham effects were large (Cohen d 0.96-1.30; Hedges g similar)
+• ANCOVA and sensitivity analyses confirmed primary-outcome group effects
+• MMSE and digit span showed no significant between-group differences
+• Preregistered multicenter replication with relapse follow-up is needed

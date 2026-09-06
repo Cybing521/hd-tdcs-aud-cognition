@@ -1,0 +1,23 @@
+{
+  "TMT-B": {
+    "cohens_d": 0.96,
+    "n_active": 21,
+    "n_sham": 27,
+    "alpha": 0.05,
+    "power": 0.898
+  },
+  "VFT": {
+    "cohens_d": 1.05,
+    "n_active": 21,
+    "n_sham": 27,
+    "alpha": 0.05,
+    "power": 0.942
+  },
+  "HVLT-R": {
+    "cohens_d": 1.3,
+    "n_active": 21,
+    "n_sham": 27,
+    "alpha": 0.05,
+    "power": 0.992
+  }
+}

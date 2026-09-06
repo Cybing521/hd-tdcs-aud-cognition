@@ -1,0 +1,76 @@
+project:
+  title_zh: "高精度经颅直流电刺激对男性酒依赖患者认知功能的影响"
+  title_en: "Effects of High-Definition Transcranial Direct Current Stimulation on Cognitive Function in Male Inpatients with Alcohol Dependence"
+  type: clinical_rct_sci
+  target_venue: Brain Stimulation
+  analyzed_n: 77
+  randomized_n: 85
+  reference_count: 24
+  stage: submission_prep
+  last_updated: "2026-08-25"
+  venue_decision: locked_Brain_Stimulation
+
+workflow:
+  router: research-execution-to-submission
+  governance: ccf-common
+  handoff_mode: PARTIAL
+
+skills_applied:
+  - ccf-literature-monitor
+  - ccf-integrity-auditor
+  - ccf-submission-checker
+  - ccf-paper-reviewer
+  - academic-paper
+  - delivery-gate
+  - citation-verifier
+  - ref-validator
+  - data-code-availability
+
+artifacts:
+  manuscript_zh: 01_论文正文/HD-tDCS酒依赖认知功能_修订稿.docx
+  manuscript_en: 01_论文正文/HD-tDCS_alcohol_dependence_cognition_EN.docx
+  manuscript_brs: 01_论文正文/HD-tDCS_alcohol_dependence_cognition_BRS.docx
+  figures:
+    - 01_论文正文/figures/Figure1_CONSORT_flowchart.pdf
+    - 01_论文正文/figures/Figure2_HD_tDCS_montage.pdf
+    - 01_论文正文/figures/Figure3_primary_outcomes_post.pdf
+    - 01_论文正文/figures/Figure4_change_trajectories.pdf
+  stats: 04_data/processed/analysis_results.json
+  enhanced_stats: 04_data/processed/enhanced_analyses.json
+  sensitivity: 04_data/processed/sensitivity_analyses.json
+  ref_validation: 04_data/processed/ref_validation.json
+  review_primary: ccfa-review-reports/manuscript_review_v3_2026-08-24.md
+
+gates_closed:
+  - abstract_word_limit_brs
+  - bibliography_linkage_32_of_32
+  - crossref_doi_verification
+  - symbolic_citation_system_no_orphans
+  - ancova_baseline_adjusted_primary_outcomes
+  - effect_sizes_with_95ci_hedges_g
+  - correlation_full_disclosure_fdr_20_cells
+  - highlights_elsevier_85char
+  - change_scores_mean_sd_table4
+  - data_code_availability_draft
+  - multiplicity_fdr_primary_outcomes
+  - data_verification_disclosure
+  - analysis_set_reassignment_narrative
+  - sensitivity_analyses_s1_s4
+  - novelty_claim_narrowed_no_first
+  - control_arm_contact_time_disclosure
+  - adverse_event_transparency
+  - manuscript_word_count_brs
+  - sci_figures_1_to_4
+  - review_reports_consolidated_to_v3
+
+open_gates:
+  - trial_registration_retrospective
+  - author_metadata
+  - ethics_approval_number
+  - optional_public_code_repository
+  - electrode_size_material_adherence_detail
+  - optional_prior_hd_tdcs_aud_citation_after_author_verify
+
+next_skills:
+  - delivery-gate
+  - ccf-rebuttal-writer

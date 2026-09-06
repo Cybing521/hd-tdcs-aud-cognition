@@ -1,0 +1,9 @@
+Pillow
+__future__
+clean_and_analyze
+matplotlib
+numpy
+openpyxl
+scipy
+sensitivity_analyses
+statsmodels
