@@ -1,0 +1,2026 @@
+{
+  "n": {
+    "active": 21,
+    "sham": 27,
+    "control": 29
+  },
+  "total_n": 77,
+  "table1": [
+    {
+      "variable": "年龄",
+      "active": "36.48±6.49",
+      "sham": "35.52±9.12",
+      "control": "38.14±7.66",
+      "F": 0.783,
+      "P": 0.461,
+      "method": "ANOVA"
+    },
+    {
+      "variable": "教育年限",
+      "active": "11.00±2.97",
+      "sham": "11.11±2.68",
+      "control": "10.69±2.88",
+      "F": 0.165,
+      "P": 0.848,
+      "method": "ANOVA"
+    },
+    {
+      "variable": "首次饮酒年龄",
+      "active": "16.14±3.61",
+      "sham": "15.78±3.06",
+      "control": "15.14±3.54",
+      "F": 0.568,
+      "P": 0.569,
+      "method": "ANOVA"
+    },
+    {
+      "variable": "累计使用时间",
+      "active": "20.33±5.83",
+      "sham": "19.70±8.40",
+      "control": "22.66±6.69",
+      "F": 1.318,
+      "P": 0.274,
+      "method": "ANOVA"
+    },
+    {
+      "variable": "成瘾时间",
+      "active": "7.24±5.04",
+      "sham": "5.19±3.48",
+      "control": "7.03±5.30",
+      "F": 1.521,
+      "P": 0.225,
+      "method": "ANOVA"
+    },
+    {
+      "variable": "戒酒次数",
+      "active": "3.62±2.89",
+      "sham": "4.44±2.68",
+      "control": "4.72±3.52",
+      "F": 0.816,
+      "P": 0.446,
+      "method": "ANOVA"
+    }
+  ],
+  "table_baseline": [
+    {
+      "outcome": "MMSE",
+      "time": "baseline",
+      "active": "27.05±1.77",
+      "sham": "26.11±1.45",
+      "control": "26.59±1.78",
+      "F": 1.869,
+      "P": 0.162,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "TMT-B",
+      "time": "baseline",
+      "active": "158.29±61.87",
+      "sham": "181.78±82.18",
+      "control": "164.93±78.06",
+      "F": 0.639,
+      "P": 0.531,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "DST",
+      "time": "baseline",
+      "active": "12.38±1.94",
+      "sham": "12.22±2.24",
+      "control": "12.28±2.37",
+      "F": 0.031,
+      "P": 0.97,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "VFT",
+      "time": "baseline",
+      "active": "19.48±5.21",
+      "sham": "18.26±4.49",
+      "control": "18.79±6.50",
+      "F": 0.288,
+      "P": 0.751,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "HVLT-R",
+      "time": "baseline",
+      "active": "20.48±6.20",
+      "sham": "18.30±4.10",
+      "control": "19.31±6.75",
+      "F": 0.838,
+      "P": 0.437,
+      "method": "ANOVA"
+    }
+  ],
+  "table_post": [
+    {
+      "outcome": "MMSE",
+      "time": "post",
+      "active": "28.62±1.40",
+      "sham": "27.78±1.45",
+      "control": "27.76±1.50",
+      "F": 2.61,
+      "P": 0.08,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "TMT-B",
+      "time": "post",
+      "active": "99.62±39.65",
+      "sham": "146.70±55.29",
+      "control": "137.21±66.85",
+      "F": 4.454,
+      "P": 0.015,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "DST",
+      "time": "post",
+      "active": "13.95±2.06",
+      "sham": "13.11±2.03",
+      "control": "13.34±2.72",
+      "F": 0.807,
+      "P": 0.45,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "VFT",
+      "time": "post",
+      "active": "23.81±4.09",
+      "sham": "19.70±3.77",
+      "control": "20.45±5.62",
+      "F": 5.099,
+      "P": 0.008,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "HVLT-R",
+      "time": "post",
+      "active": "27.71±5.48",
+      "sham": "21.15±4.69",
+      "control": "22.97±6.02",
+      "F": 8.958,
+      "P": 0.0,
+      "method": "ANOVA"
+    }
+  ],
+  "pairwise_post": {
+    "MMSE": {
+      "overall_P": 0.08,
+      "active_vs_sham_P": 0.049,
+      "active_vs_control_P": 0.045,
+      "sham_vs_control_P": 0.962,
+      "method": "ANOVA",
+      "levene_P": 0.8783
+    },
+    "TMT-B": {
+      "overall_P": 0.015,
+      "active_vs_sham_P": 0.002,
+      "active_vs_control_P": 0.026,
+      "sham_vs_control_P": 0.566,
+      "method": "ANOVA",
+      "levene_P": 0.1603
+    },
+    "DST": {
+      "overall_P": 0.45,
+      "active_vs_sham_P": 0.163,
+      "active_vs_control_P": 0.394,
+      "sham_vs_control_P": 0.718,
+      "method": "ANOVA",
+      "levene_P": 0.2409
+    },
+    "VFT": {
+      "overall_P": 0.008,
+      "active_vs_sham_P": 0.001,
+      "active_vs_control_P": 0.024,
+      "sham_vs_control_P": 0.566,
+      "method": "ANOVA",
+      "levene_P": 0.1063
+    },
+    "HVLT-R": {
+      "overall_P": 0.0,
+      "active_vs_sham_P": 0.0,
+      "active_vs_control_P": 0.006,
+      "sham_vs_control_P": 0.215,
+      "method": "ANOVA",
+      "levene_P": 0.2446
+    }
+  },
+  "effect_sizes_post": {
+    "MMSE": {
+      "active_vs_sham": {
+        "d": 0.59,
+        "d_ci_lo": 0.01,
+        "d_ci_hi": 1.17,
+        "g": 0.58,
+        "g_ci_lo": -0.0,
+        "g_ci_hi": 1.16,
+        "mean_diff": 0.84
+      },
+      "active_vs_control": {
+        "d": 0.59,
+        "d_ci_lo": 0.02,
+        "d_ci_hi": 1.16,
+        "g": 0.58,
+        "g_ci_lo": 0.01,
+        "g_ci_hi": 1.15,
+        "mean_diff": 0.86
+      }
+    },
+    "TMT-B": {
+      "active_vs_sham": {
+        "d": -0.96,
+        "d_ci_lo": -1.56,
+        "d_ci_hi": -0.36,
+        "g": -0.94,
+        "g_ci_lo": -1.54,
+        "g_ci_hi": -0.34,
+        "mean_diff": -47.08
+      },
+      "active_vs_control": {
+        "d": -0.66,
+        "d_ci_lo": -1.23,
+        "d_ci_hi": -0.08,
+        "g": -0.65,
+        "g_ci_lo": -1.22,
+        "g_ci_hi": -0.07,
+        "mean_diff": -37.59
+      }
+    },
+    "DST": {
+      "active_vs_sham": {
+        "d": 0.41,
+        "d_ci_lo": -0.16,
+        "d_ci_hi": 0.99,
+        "g": 0.41,
+        "g_ci_lo": -0.17,
+        "g_ci_hi": 0.98,
+        "mean_diff": 0.84
+      },
+      "active_vs_control": {
+        "d": 0.25,
+        "d_ci_lo": -0.32,
+        "d_ci_hi": 0.81,
+        "g": 0.24,
+        "g_ci_lo": -0.32,
+        "g_ci_hi": 0.81,
+        "mean_diff": 0.61
+      }
+    },
+    "VFT": {
+      "active_vs_sham": {
+        "d": 1.05,
+        "d_ci_lo": 0.44,
+        "d_ci_hi": 1.66,
+        "g": 1.03,
+        "g_ci_lo": 0.43,
+        "g_ci_hi": 1.64,
+        "mean_diff": 4.11
+      },
+      "active_vs_control": {
+        "d": 0.67,
+        "d_ci_lo": 0.09,
+        "d_ci_hi": 1.24,
+        "g": 0.66,
+        "g_ci_lo": 0.08,
+        "g_ci_hi": 1.23,
+        "mean_diff": 3.36
+      }
+    },
+    "HVLT-R": {
+      "active_vs_sham": {
+        "d": 1.3,
+        "d_ci_lo": 0.67,
+        "d_ci_hi": 1.93,
+        "g": 1.28,
+        "g_ci_lo": 0.65,
+        "g_ci_hi": 1.9,
+        "mean_diff": 6.57
+      },
+      "active_vs_control": {
+        "d": 0.82,
+        "d_ci_lo": 0.23,
+        "d_ci_hi": 1.4,
+        "g": 0.81,
+        "g_ci_lo": 0.22,
+        "g_ci_hi": 1.39,
+        "mean_diff": 4.75
+      }
+    }
+  },
+  "multiplicity": {
+    "method": "Benjamini-Hochberg FDR across five post-intervention omnibus tests",
+    "raw_p": {
+      "MMSE": 0.08,
+      "TMT-B": 0.015,
+      "DST": 0.45,
+      "VFT": 0.008,
+      "HVLT-R": 0.0
+    },
+    "fdr_q": {
+      "DST": 0.45,
+      "MMSE": 0.1,
+      "TMT-B": 0.025,
+      "VFT": 0.02,
+      "HVLT-R": 0.0
+    },
+    "primary_significant_at_fdr_0_05": {
+      "TMT-B": true,
+      "VFT": true,
+      "HVLT-R": true
+    }
+  },
+  "within_group_change": [
+    {
+      "outcome": "MMSE",
+      "group": "active",
+      "pre": "27.05±1.77",
+      "post": "28.62±1.40",
+      "delta": 1.57,
+      "t": -6.423,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "MMSE",
+      "group": "sham",
+      "pre": "26.11±1.45",
+      "post": "27.78±1.45",
+      "delta": 1.67,
+      "t": -6.511,
+      "P": 0.0,
+      "n": 27
+    },
+    {
+      "outcome": "MMSE",
+      "group": "control",
+      "pre": "26.59±1.78",
+      "post": "27.76±1.50",
+      "delta": 1.17,
+      "t": -5.273,
+      "P": 0.0,
+      "n": 29
+    },
+    {
+      "outcome": "TMT-B",
+      "group": "active",
+      "pre": "158.29±61.87",
+      "post": "99.62±39.65",
+      "delta": -58.67,
+      "t": 9.485,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "TMT-B",
+      "group": "sham",
+      "pre": "181.78±82.18",
+      "post": "146.70±55.29",
+      "delta": -35.07,
+      "t": 5.78,
+      "P": 0.0,
+      "n": 27
+    },
+    {
+      "outcome": "TMT-B",
+      "group": "control",
+      "pre": "164.93±78.06",
+      "post": "137.21±66.85",
+      "delta": -27.72,
+      "t": 4.385,
+      "P": 0.0001,
+      "n": 29
+    },
+    {
+      "outcome": "DST",
+      "group": "active",
+      "pre": "12.38±1.94",
+      "post": "13.95±2.06",
+      "delta": 1.57,
+      "t": -7.004,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "DST",
+      "group": "sham",
+      "pre": "12.22±2.24",
+      "post": "13.11±2.03",
+      "delta": 0.89,
+      "t": -3.024,
+      "P": 0.0056,
+      "n": 27
+    },
+    {
+      "outcome": "DST",
+      "group": "control",
+      "pre": "12.28±2.37",
+      "post": "13.34±2.72",
+      "delta": 1.07,
+      "t": -3.144,
+      "P": 0.0039,
+      "n": 29
+    },
+    {
+      "outcome": "VFT",
+      "group": "active",
+      "pre": "19.48±5.21",
+      "post": "23.81±4.09",
+      "delta": 4.33,
+      "t": -5.438,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "VFT",
+      "group": "sham",
+      "pre": "18.26±4.49",
+      "post": "19.70±3.77",
+      "delta": 1.44,
+      "t": -3.543,
+      "P": 0.0015,
+      "n": 27
+    },
+    {
+      "outcome": "VFT",
+      "group": "control",
+      "pre": "18.79±6.50",
+      "post": "20.45±5.62",
+      "delta": 1.66,
+      "t": -2.059,
+      "P": 0.0489,
+      "n": 29
+    },
+    {
+      "outcome": "HVLT-R",
+      "group": "active",
+      "pre": "20.48±6.20",
+      "post": "27.71±5.48",
+      "delta": 7.24,
+      "t": -10.005,
+      "P": 0.0,
+      "n": 21
+    },
+    {
+      "outcome": "HVLT-R",
+      "group": "sham",
+      "pre": "18.30±4.10",
+      "post": "21.15±4.69",
+      "delta": 2.85,
+      "t": -4.785,
+      "P": 0.0001,
+      "n": 27
+    },
+    {
+      "outcome": "HVLT-R",
+      "group": "control",
+      "pre": "19.31±6.75",
+      "post": "22.97±6.02",
+      "delta": 3.66,
+      "t": -4.741,
+      "P": 0.0001,
+      "n": 29
+    }
+  ],
+  "change_score": [
+    {
+      "outcome": "MMSE",
+      "active": "1.57±1.12",
+      "sham": "1.67±1.33",
+      "control": "1.17±1.20",
+      "F": 1.267,
+      "P": 0.2878,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "TMT-B",
+      "active": "-58.67±28.34",
+      "sham": "-35.07±31.53",
+      "control": "-27.72±34.05",
+      "F": 6.079,
+      "P": 0.0036,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "DST",
+      "active": "1.57±1.03",
+      "sham": "0.89±1.53",
+      "control": "1.07±1.83",
+      "F": 1.213,
+      "P": 0.3033,
+      "method": "ANOVA"
+    },
+    {
+      "outcome": "VFT",
+      "active": "4.33±3.65",
+      "sham": "1.44±2.12",
+      "control": "1.66±4.33",
+      "F": 5.223,
+      "P": 0.0094,
+      "method": "Welch"
+    },
+    {
+      "outcome": "HVLT-R",
+      "active": "7.24±3.32",
+      "sham": "2.85±3.10",
+      "control": "3.66±4.15",
+      "F": 9.71,
+      "P": 0.0002,
+      "method": "ANOVA"
+    }
+  ],
+  "change_score_pairwise": {
+    "MMSE": {
+      "overall_P": 0.2878,
+      "active_vs_sham_P": 0.7936,
+      "active_vs_control_P": 0.2383,
+      "sham_vs_control_P": 0.1492
+    },
+    "TMT-B": {
+      "overall_P": 0.0036,
+      "active_vs_sham_P": 0.01,
+      "active_vs_control_P": 0.0014,
+      "sham_vs_control_P": 0.4067
+    },
+    "DST": {
+      "overall_P": 0.3033,
+      "active_vs_sham_P": 0.0852,
+      "active_vs_control_P": 0.2629,
+      "sham_vs_control_P": 0.6922
+    },
+    "VFT": {
+      "overall_P": 0.0094,
+      "active_vs_sham_P": 0.003,
+      "active_vs_control_P": 0.0222,
+      "sham_vs_control_P": 0.8163
+    },
+    "HVLT-R": {
+      "overall_P": 0.0002,
+      "active_vs_sham_P": 0.0,
+      "active_vs_control_P": 0.002,
+      "sham_vs_control_P": 0.4182
+    }
+  },
+  "effect_sizes_change": {
+    "MMSE": {
+      "active_vs_sham": {
+        "d": -0.08,
+        "d_ci_lo": -0.65,
+        "d_ci_hi": 0.49,
+        "g": -0.08,
+        "g_ci_lo": -0.65,
+        "g_ci_hi": 0.5,
+        "mean_diff": -0.1
+      },
+      "active_vs_control": {
+        "d": 0.34,
+        "d_ci_lo": -0.22,
+        "d_ci_hi": 0.91,
+        "g": 0.34,
+        "g_ci_lo": -0.23,
+        "g_ci_hi": 0.9,
+        "mean_diff": 0.4
+      }
+    },
+    "TMT-B": {
+      "active_vs_sham": {
+        "d": -0.78,
+        "d_ci_lo": -1.37,
+        "d_ci_hi": -0.19,
+        "g": -0.77,
+        "g_ci_lo": -1.36,
+        "g_ci_hi": -0.18,
+        "mean_diff": -23.59
+      },
+      "active_vs_control": {
+        "d": -0.97,
+        "d_ci_lo": -1.57,
+        "d_ci_hi": -0.38,
+        "g": -0.96,
+        "g_ci_lo": -1.55,
+        "g_ci_hi": -0.37,
+        "mean_diff": -30.94
+      }
+    },
+    "DST": {
+      "active_vs_sham": {
+        "d": 0.51,
+        "d_ci_lo": -0.07,
+        "d_ci_hi": 1.09,
+        "g": 0.5,
+        "g_ci_lo": -0.08,
+        "g_ci_hi": 1.08,
+        "mean_diff": 0.68
+      },
+      "active_vs_control": {
+        "d": 0.32,
+        "d_ci_lo": -0.24,
+        "d_ci_hi": 0.89,
+        "g": 0.32,
+        "g_ci_lo": -0.25,
+        "g_ci_hi": 0.88,
+        "mean_diff": 0.5
+      }
+    },
+    "VFT": {
+      "active_vs_sham": {
+        "d": 1.0,
+        "d_ci_lo": 0.4,
+        "d_ci_hi": 1.61,
+        "g": 0.98,
+        "g_ci_lo": 0.38,
+        "g_ci_hi": 1.59,
+        "mean_diff": 2.89
+      },
+      "active_vs_control": {
+        "d": 0.66,
+        "d_ci_lo": 0.08,
+        "d_ci_hi": 1.24,
+        "g": 0.65,
+        "g_ci_lo": 0.07,
+        "g_ci_hi": 1.23,
+        "mean_diff": 2.68
+      }
+    },
+    "HVLT-R": {
+      "active_vs_sham": {
+        "d": 1.37,
+        "d_ci_lo": 0.74,
+        "d_ci_hi": 2.01,
+        "g": 1.35,
+        "g_ci_lo": 0.72,
+        "g_ci_hi": 1.98,
+        "mean_diff": 4.39
+      },
+      "active_vs_control": {
+        "d": 0.94,
+        "d_ci_lo": 0.35,
+        "d_ci_hi": 1.53,
+        "g": 0.92,
+        "g_ci_lo": 0.33,
+        "g_ci_hi": 1.51,
+        "mean_diff": 3.58
+      }
+    }
+  },
+  "ancova": {
+    "MMSE": {
+      "F": 1.885,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.15909,
+      "partial_eta_sq": 0.049,
+      "slope_homogeneity_F": 0.039,
+      "slope_homogeneity_P": 0.962,
+      "adjusted_means": {
+        "active": 28.31,
+        "sham": 28.04,
+        "control": 27.73
+      },
+      "baseline_mean": 26.55,
+      "n": 77,
+      "hc3_wald_chi2": 4.338,
+      "hc3_P": 0.11427
+    },
+    "TMT-B": {
+      "F": 16.668,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.0,
+      "partial_eta_sq": 0.313,
+      "slope_homogeneity_F": 2.206,
+      "slope_homogeneity_P": 0.118,
+      "adjusted_means": {
+        "active": 107.04,
+        "sham": 137.89,
+        "control": 140.04
+      },
+      "baseline_mean": 169.03,
+      "n": 77,
+      "hc3_wald_chi2": 56.817,
+      "hc3_P": 0.0
+    },
+    "DST": {
+      "F": 1.413,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.24995,
+      "partial_eta_sq": 0.037,
+      "slope_homogeneity_F": 0.828,
+      "slope_homogeneity_P": 0.441,
+      "adjusted_means": {
+        "active": 13.88,
+        "sham": 13.16,
+        "control": 13.35
+      },
+      "baseline_mean": 12.29,
+      "n": 77,
+      "hc3_wald_chi2": 4.14,
+      "hc3_P": 0.12621
+    },
+    "VFT": {
+      "F": 8.546,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.00046,
+      "partial_eta_sq": 0.19,
+      "slope_homogeneity_F": 0.482,
+      "slope_homogeneity_P": 0.62,
+      "adjusted_means": {
+        "active": 23.36,
+        "sham": 20.05,
+        "control": 20.45
+      },
+      "baseline_mean": 18.79,
+      "n": 77,
+      "hc3_wald_chi2": 18.761,
+      "hc3_P": 8e-05
+    },
+    "HVLT-R": {
+      "F": 13.915,
+      "df1": 2,
+      "df2": 73,
+      "P": 0.0,
+      "partial_eta_sq": 0.276,
+      "slope_homogeneity_F": 0.371,
+      "slope_homogeneity_P": 0.691,
+      "adjusted_means": {
+        "active": 26.81,
+        "sham": 21.88,
+        "control": 22.94
+      },
+      "baseline_mean": 19.27,
+      "n": 77,
+      "hc3_wald_chi2": 26.513,
+      "hc3_P": 0.0
+    }
+  },
+  "correlations": {
+    "n_tests": 20,
+    "nominal_sig_count": 4,
+    "fdr_sig_count": 2,
+    "cells": [
+      {
+        "drinking": "age_first_drink",
+        "cognition": [
+          "MMSE1",
+          "MMSE2"
+        ],
+        "r": -0.087,
+        "P": 0.45225,
+        "n": 77,
+        "q_bh": 0.565
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": [
+          "TMT-B1",
+          "TMT-B2"
+        ],
+        "r": 0.108,
+        "P": 0.35045,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": [
+          "DST1",
+          "DST2"
+        ],
+        "r": -0.18,
+        "P": 0.1177,
+        "n": 77,
+        "q_bh": 0.262
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": [
+          "VFT1",
+          "VFT2"
+        ],
+        "r": -0.108,
+        "P": 0.35192,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "age_first_drink",
+        "cognition": [
+          "HVLT-R1",
+          "HVLT-R2"
+        ],
+        "r": -0.155,
+        "P": 0.1776,
+        "n": 77,
+        "q_bh": 0.355
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": [
+          "MMSE1",
+          "MMSE2"
+        ],
+        "r": -0.033,
+        "P": 0.77509,
+        "n": 77,
+        "q_bh": 0.816
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": [
+          "TMT-B1",
+          "TMT-B2"
+        ],
+        "r": 0.423,
+        "P": 0.00013,
+        "n": 77,
+        "q_bh": 0.003
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": [
+          "DST1",
+          "DST2"
+        ],
+        "r": -0.092,
+        "P": 0.42562,
+        "n": 77,
+        "q_bh": 0.565
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": [
+          "VFT1",
+          "VFT2"
+        ],
+        "r": -0.203,
+        "P": 0.07733,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "duration_use",
+        "cognition": [
+          "HVLT-R1",
+          "HVLT-R2"
+        ],
+        "r": -0.107,
+        "P": 0.35563,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": [
+          "MMSE1",
+          "MMSE2"
+        ],
+        "r": -0.122,
+        "P": 0.29066,
+        "n": 77,
+        "q_bh": 0.508
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": [
+          "TMT-B1",
+          "TMT-B2"
+        ],
+        "r": 0.327,
+        "P": 0.00374,
+        "n": 77,
+        "q_bh": 0.037
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": [
+          "DST1",
+          "DST2"
+        ],
+        "r": -0.214,
+        "P": 0.06215,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": [
+          "VFT1",
+          "VFT2"
+        ],
+        "r": -0.266,
+        "P": 0.01922,
+        "n": 77,
+        "q_bh": 0.128
+      },
+      {
+        "drinking": "dependence_duration",
+        "cognition": [
+          "HVLT-R1",
+          "HVLT-R2"
+        ],
+        "r": -0.203,
+        "P": 0.07605,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": [
+          "MMSE1",
+          "MMSE2"
+        ],
+        "r": 0.041,
+        "P": 0.72021,
+        "n": 77,
+        "q_bh": 0.8
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": [
+          "TMT-B1",
+          "TMT-B2"
+        ],
+        "r": 0.198,
+        "P": 0.08353,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": [
+          "DST1",
+          "DST2"
+        ],
+        "r": 0.058,
+        "P": 0.61347,
+        "n": 77,
+        "q_bh": 0.722
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": [
+          "VFT1",
+          "VFT2"
+        ],
+        "r": -0.227,
+        "P": 0.04676,
+        "n": 77,
+        "q_bh": 0.209
+      },
+      {
+        "drinking": "abstinence_attempts",
+        "cognition": [
+          "HVLT-R1",
+          "HVLT-R2"
+        ],
+        "r": -0.002,
+        "P": 0.98561,
+        "n": 77,
+        "q_bh": 0.986
+      }
+    ]
+  },
+  "power_and_mde": {
+    "TMT-B": {
+      "cohens_d": 0.96,
+      "post_hoc_power": 0.122,
+      "min_detectable_d_80pct": 0.82
+    },
+    "VFT": {
+      "cohens_d": 1.05,
+      "post_hoc_power": 0.077,
+      "min_detectable_d_80pct": 0.82
+    },
+    "HVLT-R": {
+      "cohens_d": 1.3,
+      "post_hoc_power": 0.018,
+      "min_detectable_d_80pct": 0.82
+    }
+  },
+  "tipping_point": {
+    "design": "worst-direction offset imputation for 3 participants without week-4 assessment",
+    "missing_by_arm": {
+      "active": 1,
+      "sham": 2,
+      "control": 0
+    },
+    "note": "这些受试者的基线与结局均不在去标识分析表内，故无法做协变量插补（multiple imputation）；本分析以偏移插补给出结论的脆弱性边界。",
+    "outcomes": {
+      "TMT-B": {
+        "observed_active_vs_sham_P": 0.0019,
+        "observed_d": -0.96,
+        "tipping": {
+          "delta_sd": 3.55,
+          "delta_units": 140.76,
+          "P_at_tipping": 0.05072,
+          "d_at_tipping": -0.57,
+          "imputed_active_post": 240.38,
+          "imputed_sham_post": -49.57
+        },
+        "tipping_absent_within_8sd": false,
+        "grid_max_delta_sd": 8.0,
+        "extreme_worst_case_P": 0.01038,
+        "extreme_worst_case_d": -0.75,
+        "extreme_worst_case_imputed": {
+          "active_missing": 176.0,
+          "sham_missing": 71.0
+        },
+        "arm_sd": {
+          "active": 39.65,
+          "sham": 55.29
+        },
+        "observed_range": {
+          "active": [
+            38.0,
+            176.0
+          ],
+          "sham": [
+            71.0,
+            267.0
+          ]
+        },
+        "scale_range": [
+          0,
+          null
+        ],
+        "curve": [
+          {
+            "delta_sd": 0.0,
+            "P": 0.00122,
+            "d": -0.98
+          },
+          {
+            "delta_sd": 0.2,
+            "P": 0.00145,
+            "d": -0.96
+          },
+          {
+            "delta_sd": 0.4,
+            "P": 0.00174,
+            "d": -0.95
+          },
+          {
+            "delta_sd": 0.6,
+            "P": 0.00212,
+            "d": -0.93
+          },
+          {
+            "delta_sd": 0.8,
+            "P": 0.0026,
+            "d": -0.91
+          },
+          {
+            "delta_sd": 1.0,
+            "P": 0.00323,
+            "d": -0.88
+          },
+          {
+            "delta_sd": 1.2,
+            "P": 0.00403,
+            "d": -0.86
+          },
+          {
+            "delta_sd": 1.4,
+            "P": 0.00506,
+            "d": -0.84
+          },
+          {
+            "delta_sd": 1.6,
+            "P": 0.00636,
+            "d": -0.81
+          },
+          {
+            "delta_sd": 1.8,
+            "P": 0.00801,
+            "d": -0.79
+          },
+          {
+            "delta_sd": 2.0,
+            "P": 0.01007,
+            "d": -0.76
+          },
+          {
+            "delta_sd": 2.2,
+            "P": 0.01264,
+            "d": -0.74
+          },
+          {
+            "delta_sd": 2.4,
+            "P": 0.01581,
+            "d": -0.71
+          },
+          {
+            "delta_sd": 2.6,
+            "P": 0.01967,
+            "d": -0.69
+          },
+          {
+            "delta_sd": 2.8,
+            "P": 0.02434,
+            "d": -0.66
+          },
+          {
+            "delta_sd": 3.0,
+            "P": 0.02991,
+            "d": -0.64
+          },
+          {
+            "delta_sd": 3.2,
+            "P": 0.03649,
+            "d": -0.61
+          },
+          {
+            "delta_sd": 3.4,
+            "P": 0.04418,
+            "d": -0.59
+          },
+          {
+            "delta_sd": 3.6,
+            "P": 0.05306,
+            "d": -0.57
+          },
+          {
+            "delta_sd": 3.8,
+            "P": 0.06319,
+            "d": -0.54
+          },
+          {
+            "delta_sd": 4.0,
+            "P": 0.07465,
+            "d": -0.52
+          },
+          {
+            "delta_sd": 4.2,
+            "P": 0.08745,
+            "d": -0.5
+          },
+          {
+            "delta_sd": 4.4,
+            "P": 0.10162,
+            "d": -0.48
+          },
+          {
+            "delta_sd": 4.6,
+            "P": 0.11716,
+            "d": -0.45
+          },
+          {
+            "delta_sd": 4.8,
+            "P": 0.13402,
+            "d": -0.43
+          },
+          {
+            "delta_sd": 5.0,
+            "P": 0.15217,
+            "d": -0.41
+          },
+          {
+            "delta_sd": 5.2,
+            "P": 0.17155,
+            "d": -0.4
+          },
+          {
+            "delta_sd": 5.4,
+            "P": 0.19209,
+            "d": -0.38
+          },
+          {
+            "delta_sd": 5.6,
+            "P": 0.21368,
+            "d": -0.36
+          },
+          {
+            "delta_sd": 5.8,
+            "P": 0.23623,
+            "d": -0.34
+          },
+          {
+            "delta_sd": 6.0,
+            "P": 0.25964,
+            "d": -0.32
+          },
+          {
+            "delta_sd": 6.2,
+            "P": 0.28379,
+            "d": -0.31
+          },
+          {
+            "delta_sd": 6.4,
+            "P": 0.30858,
+            "d": -0.29
+          },
+          {
+            "delta_sd": 6.6,
+            "P": 0.3339,
+            "d": -0.28
+          },
+          {
+            "delta_sd": 6.8,
+            "P": 0.35964,
+            "d": -0.26
+          },
+          {
+            "delta_sd": 7.0,
+            "P": 0.38569,
+            "d": -0.25
+          },
+          {
+            "delta_sd": 7.2,
+            "P": 0.41195,
+            "d": -0.24
+          },
+          {
+            "delta_sd": 7.4,
+            "P": 0.43833,
+            "d": -0.22
+          },
+          {
+            "delta_sd": 7.6,
+            "P": 0.46475,
+            "d": -0.21
+          },
+          {
+            "delta_sd": 7.8,
+            "P": 0.49113,
+            "d": -0.2
+          },
+          {
+            "delta_sd": 8.0,
+            "P": 0.51739,
+            "d": -0.19
+          }
+        ],
+        "tipping_imputed_plausible": {
+          "active_within_scale": false,
+          "sham_within_scale": false,
+          "note": "False 表示翻转结论所需的插补值已超出量表理论取值范围（物理不可能）"
+        },
+        "extreme_worst_case_plausible": {
+          "active_within_scale": true,
+          "sham_within_scale": true
+        }
+      },
+      "VFT": {
+        "observed_active_vs_sham_P": 0.00076,
+        "observed_d": 1.05,
+        "tipping": {
+          "delta_sd": 4.0,
+          "delta_units": 16.38,
+          "P_at_tipping": 0.05138,
+          "d_at_tipping": 0.57,
+          "imputed_active_post": 7.43,
+          "imputed_sham_post": 34.79
+        },
+        "tipping_absent_within_8sd": false,
+        "grid_max_delta_sd": 8.0,
+        "extreme_worst_case_P": 0.01307,
+        "extreme_worst_case_d": 0.73,
+        "extreme_worst_case_imputed": {
+          "active_missing": 15.0,
+          "sham_missing": 28.0
+        },
+        "arm_sd": {
+          "active": 4.09,
+          "sham": 3.77
+        },
+        "observed_range": {
+          "active": [
+            15.0,
+            31.0
+          ],
+          "sham": [
+            12.0,
+            28.0
+          ]
+        },
+        "scale_range": [
+          0,
+          60
+        ],
+        "curve": [
+          {
+            "delta_sd": 0.0,
+            "P": 0.00046,
+            "d": 1.07
+          },
+          {
+            "delta_sd": 0.2,
+            "P": 0.00056,
+            "d": 1.05
+          },
+          {
+            "delta_sd": 0.4,
+            "P": 0.00068,
+            "d": 1.03
+          },
+          {
+            "delta_sd": 0.6,
+            "P": 0.00085,
+            "d": 1.01
+          },
+          {
+            "delta_sd": 0.8,
+            "P": 0.00108,
+            "d": 0.99
+          },
+          {
+            "delta_sd": 1.0,
+            "P": 0.00138,
+            "d": 0.97
+          },
+          {
+            "delta_sd": 1.2,
+            "P": 0.00178,
+            "d": 0.94
+          },
+          {
+            "delta_sd": 1.4,
+            "P": 0.00231,
+            "d": 0.92
+          },
+          {
+            "delta_sd": 1.6,
+            "P": 0.003,
+            "d": 0.89
+          },
+          {
+            "delta_sd": 1.8,
+            "P": 0.00392,
+            "d": 0.86
+          },
+          {
+            "delta_sd": 2.0,
+            "P": 0.0051,
+            "d": 0.84
+          },
+          {
+            "delta_sd": 2.2,
+            "P": 0.00663,
+            "d": 0.81
+          },
+          {
+            "delta_sd": 2.4,
+            "P": 0.00858,
+            "d": 0.78
+          },
+          {
+            "delta_sd": 2.6,
+            "P": 0.01104,
+            "d": 0.75
+          },
+          {
+            "delta_sd": 2.8,
+            "P": 0.01412,
+            "d": 0.73
+          },
+          {
+            "delta_sd": 3.0,
+            "P": 0.01791,
+            "d": 0.7
+          },
+          {
+            "delta_sd": 3.2,
+            "P": 0.02253,
+            "d": 0.67
+          },
+          {
+            "delta_sd": 3.4,
+            "P": 0.02809,
+            "d": 0.65
+          },
+          {
+            "delta_sd": 3.6,
+            "P": 0.03468,
+            "d": 0.62
+          },
+          {
+            "delta_sd": 3.8,
+            "P": 0.04242,
+            "d": 0.59
+          },
+          {
+            "delta_sd": 4.0,
+            "P": 0.05138,
+            "d": 0.57
+          },
+          {
+            "delta_sd": 4.2,
+            "P": 0.06164,
+            "d": 0.55
+          },
+          {
+            "delta_sd": 4.4,
+            "P": 0.07324,
+            "d": 0.52
+          },
+          {
+            "delta_sd": 4.6,
+            "P": 0.08623,
+            "d": 0.5
+          },
+          {
+            "delta_sd": 4.8,
+            "P": 0.1006,
+            "d": 0.48
+          },
+          {
+            "delta_sd": 5.0,
+            "P": 0.11634,
+            "d": 0.46
+          },
+          {
+            "delta_sd": 5.2,
+            "P": 0.13344,
+            "d": 0.43
+          },
+          {
+            "delta_sd": 5.4,
+            "P": 0.15183,
+            "d": 0.41
+          },
+          {
+            "delta_sd": 5.6,
+            "P": 0.17144,
+            "d": 0.4
+          },
+          {
+            "delta_sd": 5.8,
+            "P": 0.19221,
+            "d": 0.38
+          },
+          {
+            "delta_sd": 6.0,
+            "P": 0.21403,
+            "d": 0.36
+          },
+          {
+            "delta_sd": 6.2,
+            "P": 0.2368,
+            "d": 0.34
+          },
+          {
+            "delta_sd": 6.4,
+            "P": 0.26042,
+            "d": 0.32
+          },
+          {
+            "delta_sd": 6.6,
+            "P": 0.28478,
+            "d": 0.31
+          },
+          {
+            "delta_sd": 6.8,
+            "P": 0.30976,
+            "d": 0.29
+          },
+          {
+            "delta_sd": 7.0,
+            "P": 0.33525,
+            "d": 0.28
+          },
+          {
+            "delta_sd": 7.2,
+            "P": 0.36116,
+            "d": 0.26
+          },
+          {
+            "delta_sd": 7.4,
+            "P": 0.38736,
+            "d": 0.25
+          },
+          {
+            "delta_sd": 7.6,
+            "P": 0.41377,
+            "d": 0.23
+          },
+          {
+            "delta_sd": 7.8,
+            "P": 0.4403,
+            "d": 0.22
+          },
+          {
+            "delta_sd": 8.0,
+            "P": 0.46685,
+            "d": 0.21
+          }
+        ],
+        "tipping_imputed_plausible": {
+          "active_within_scale": false,
+          "sham_within_scale": false,
+          "note": "False 表示翻转结论所需的插补值已超出量表理论取值范围（物理不可能）"
+        },
+        "extreme_worst_case_plausible": {
+          "active_within_scale": true,
+          "sham_within_scale": true
+        }
+      },
+      "HVLT-R": {
+        "observed_active_vs_sham_P": 5e-05,
+        "observed_d": 1.3,
+        "tipping": {
+          "delta_sd": 5.5,
+          "delta_units": 30.13,
+          "P_at_tipping": 0.05022,
+          "d_at_tipping": 0.57,
+          "imputed_active_post": -2.42,
+          "imputed_sham_post": 46.93
+        },
+        "tipping_absent_within_8sd": false,
+        "grid_max_delta_sd": 8.0,
+        "extreme_worst_case_P": 0.00098,
+        "extreme_worst_case_d": 0.99,
+        "extreme_worst_case_imputed": {
+          "active_missing": 19.0,
+          "sham_missing": 32.0
+        },
+        "arm_sd": {
+          "active": 5.48,
+          "sham": 4.69
+        },
+        "observed_range": {
+          "active": [
+            19.0,
+            36.0
+          ],
+          "sham": [
+            15.0,
+            32.0
+          ]
+        },
+        "scale_range": [
+          0,
+          36
+        ],
+        "curve": [
+          {
+            "delta_sd": 0.0,
+            "P": 2e-05,
+            "d": 1.33
+          },
+          {
+            "delta_sd": 0.2,
+            "P": 3e-05,
+            "d": 1.31
+          },
+          {
+            "delta_sd": 0.4,
+            "P": 4e-05,
+            "d": 1.29
+          },
+          {
+            "delta_sd": 0.6,
+            "P": 5e-05,
+            "d": 1.27
+          },
+          {
+            "delta_sd": 0.8,
+            "P": 7e-05,
+            "d": 1.24
+          },
+          {
+            "delta_sd": 1.0,
+            "P": 9e-05,
+            "d": 1.22
+          },
+          {
+            "delta_sd": 1.2,
+            "P": 0.00012,
+            "d": 1.19
+          },
+          {
+            "delta_sd": 1.4,
+            "P": 0.00017,
+            "d": 1.16
+          },
+          {
+            "delta_sd": 1.6,
+            "P": 0.00023,
+            "d": 1.13
+          },
+          {
+            "delta_sd": 1.8,
+            "P": 0.00032,
+            "d": 1.1
+          },
+          {
+            "delta_sd": 2.0,
+            "P": 0.00045,
+            "d": 1.07
+          },
+          {
+            "delta_sd": 2.2,
+            "P": 0.00064,
+            "d": 1.04
+          },
+          {
+            "delta_sd": 2.4,
+            "P": 0.00089,
+            "d": 1.01
+          },
+          {
+            "delta_sd": 2.6,
+            "P": 0.00124,
+            "d": 0.98
+          },
+          {
+            "delta_sd": 2.8,
+            "P": 0.00171,
+            "d": 0.95
+          },
+          {
+            "delta_sd": 3.0,
+            "P": 0.00235,
+            "d": 0.92
+          },
+          {
+            "delta_sd": 3.2,
+            "P": 0.00321,
+            "d": 0.88
+          },
+          {
+            "delta_sd": 3.4,
+            "P": 0.00432,
+            "d": 0.85
+          },
+          {
+            "delta_sd": 3.6,
+            "P": 0.00577,
+            "d": 0.82
+          },
+          {
+            "delta_sd": 3.8,
+            "P": 0.00761,
+            "d": 0.79
+          },
+          {
+            "delta_sd": 4.0,
+            "P": 0.00992,
+            "d": 0.77
+          },
+          {
+            "delta_sd": 4.2,
+            "P": 0.01278,
+            "d": 0.74
+          },
+          {
+            "delta_sd": 4.4,
+            "P": 0.01627,
+            "d": 0.71
+          },
+          {
+            "delta_sd": 4.6,
+            "P": 0.02048,
+            "d": 0.68
+          },
+          {
+            "delta_sd": 4.8,
+            "P": 0.02549,
+            "d": 0.66
+          },
+          {
+            "delta_sd": 5.0,
+            "P": 0.03135,
+            "d": 0.63
+          },
+          {
+            "delta_sd": 5.2,
+            "P": 0.03815,
+            "d": 0.61
+          },
+          {
+            "delta_sd": 5.4,
+            "P": 0.04594,
+            "d": 0.58
+          },
+          {
+            "delta_sd": 5.6,
+            "P": 0.05476,
+            "d": 0.56
+          },
+          {
+            "delta_sd": 5.8,
+            "P": 0.06463,
+            "d": 0.54
+          },
+          {
+            "delta_sd": 6.0,
+            "P": 0.07559,
+            "d": 0.52
+          },
+          {
+            "delta_sd": 6.2,
+            "P": 0.08763,
+            "d": 0.5
+          },
+          {
+            "delta_sd": 6.4,
+            "P": 0.10074,
+            "d": 0.48
+          },
+          {
+            "delta_sd": 6.6,
+            "P": 0.11491,
+            "d": 0.46
+          },
+          {
+            "delta_sd": 6.8,
+            "P": 0.13009,
+            "d": 0.44
+          },
+          {
+            "delta_sd": 7.0,
+            "P": 0.14624,
+            "d": 0.42
+          },
+          {
+            "delta_sd": 7.2,
+            "P": 0.16331,
+            "d": 0.4
+          },
+          {
+            "delta_sd": 7.4,
+            "P": 0.18124,
+            "d": 0.39
+          },
+          {
+            "delta_sd": 7.6,
+            "P": 0.19997,
+            "d": 0.37
+          },
+          {
+            "delta_sd": 7.8,
+            "P": 0.21941,
+            "d": 0.35
+          },
+          {
+            "delta_sd": 8.0,
+            "P": 0.23951,
+            "d": 0.34
+          }
+        ],
+        "tipping_imputed_plausible": {
+          "active_within_scale": false,
+          "sham_within_scale": false,
+          "note": "False 表示翻转结论所需的插补值已超出量表理论取值范围（物理不可能）"
+        },
+        "extreme_worst_case_plausible": {
+          "active_within_scale": true,
+          "sham_within_scale": true
+        }
+      }
+    }
+  },
+  "permutation": {
+    "n_perm": 10000,
+    "seed": 20261027,
+    "outcomes": {
+      "TMT-B": {
+        "obs_F": 4.454,
+        "perm_p_omnibus": 0.0159,
+        "obs_active_vs_sham_P": 0.0019,
+        "obs_mean_diff": -47.08,
+        "perm_p_active_vs_sham": 0.0016,
+        "perm_scheme": "omnibus: 77 labels permuted; contrast: restricted permutation within active+sham (48)"
+      },
+      "VFT": {
+        "obs_F": 5.099,
+        "perm_p_omnibus": 0.0063,
+        "obs_active_vs_sham_P": 0.00076,
+        "obs_mean_diff": 4.11,
+        "perm_p_active_vs_sham": 0.001,
+        "perm_scheme": "omnibus: 77 labels permuted; contrast: restricted permutation within active+sham (48)"
+      },
+      "HVLT-R": {
+        "obs_F": 8.958,
+        "perm_p_omnibus": 0.0004,
+        "obs_active_vs_sham_P": 5e-05,
+        "obs_mean_diff": 6.57,
+        "perm_p_active_vs_sham": 0.0002,
+        "perm_scheme": "omnibus: 77 labels permuted; contrast: restricted permutation within active+sham (48)"
+      }
+    }
+  },
+  "bootstrap": {
+    "n_boot": 10000,
+    "seed": 20261027,
+    "outcomes": {
+      "MMSE": {
+        "post": {
+          "observed_diff": 0.84,
+          "boot_ci_lo": 0.03,
+          "boot_ci_hi": 1.62,
+          "boot_se": 0.41,
+          "excludes_zero": true
+        },
+        "change": {
+          "observed_diff": -0.1,
+          "boot_ci_lo": -0.77,
+          "boot_ci_hi": 0.57,
+          "boot_se": 0.35,
+          "excludes_zero": false
+        }
+      },
+      "TMT-B": {
+        "post": {
+          "observed_diff": -47.08,
+          "boot_ci_lo": -74.18,
+          "boot_ci_hi": -20.89,
+          "boot_se": 13.54,
+          "excludes_zero": true
+        },
+        "change": {
+          "observed_diff": -23.59,
+          "boot_ci_lo": -40.43,
+          "boot_ci_hi": -7.51,
+          "boot_se": 8.44,
+          "excludes_zero": true
+        }
+      },
+      "DST": {
+        "post": {
+          "observed_diff": 0.84,
+          "boot_ci_lo": -0.31,
+          "boot_ci_hi": 1.96,
+          "boot_se": 0.58,
+          "excludes_zero": false
+        },
+        "change": {
+          "observed_diff": 0.68,
+          "boot_ci_lo": -0.03,
+          "boot_ci_hi": 1.42,
+          "boot_se": 0.36,
+          "excludes_zero": false
+        }
+      },
+      "VFT": {
+        "post": {
+          "observed_diff": 4.11,
+          "boot_ci_lo": 1.93,
+          "boot_ci_hi": 6.3,
+          "boot_se": 1.11,
+          "excludes_zero": true
+        },
+        "change": {
+          "observed_diff": 2.89,
+          "boot_ci_lo": 1.21,
+          "boot_ci_hi": 4.64,
+          "boot_se": 0.87,
+          "excludes_zero": true
+        }
+      },
+      "HVLT-R": {
+        "post": {
+          "observed_diff": 6.57,
+          "boot_ci_lo": 3.7,
+          "boot_ci_hi": 9.47,
+          "boot_se": 1.47,
+          "excludes_zero": true
+        },
+        "change": {
+          "observed_diff": 4.39,
+          "boot_ci_lo": 2.65,
+          "boot_ci_hi": 6.22,
+          "boot_se": 0.91,
+          "excludes_zero": true
+        }
+      }
+    }
+  },
+  "diagnostics": {
+    "outcomes": {
+      "MMSE": {
+        "shapiro_W_P_by_arm": {
+          "active": 0.0052,
+          "sham": 0.028,
+          "control": 0.0175
+        },
+        "levene_P": 0.8783,
+        "loo_active_vs_sham_P_range": [
+          0.01254,
+          0.07621
+        ],
+        "loo_active_vs_sham_d_range": [
+          0.53,
+          0.77
+        ],
+        "all_loo_P_below_0_05": false
+      },
+      "TMT-B": {
+        "shapiro_W_P_by_arm": {
+          "active": 0.3251,
+          "sham": 0.0793,
+          "control": 0.0402
+        },
+        "levene_P": 0.1603,
+        "loo_active_vs_sham_P_range": [
+          0.00085,
+          0.00373
+        ],
+        "loo_active_vs_sham_d_range": [
+          -1.05,
+          -0.9
+        ],
+        "all_loo_P_below_0_05": true
+      },
+      "DST": {
+        "shapiro_W_P_by_arm": {
+          "active": 0.0983,
+          "sham": 0.2394,
+          "control": 0.5535
+        },
+        "levene_P": 0.2409,
+        "loo_active_vs_sham_P_range": [
+          0.07507,
+          0.25155
+        ],
+        "loo_active_vs_sham_d_range": [
+          0.34,
+          0.53
+        ],
+        "all_loo_P_below_0_05": false
+      },
+      "VFT": {
+        "shapiro_W_P_by_arm": {
+          "active": 0.5945,
+          "sham": 0.6702,
+          "control": 0.4138
+        },
+        "levene_P": 0.1063,
+        "loo_active_vs_sham_P_range": [
+          0.00015,
+          0.00169
+        ],
+        "loo_active_vs_sham_d_range": [
+          0.99,
+          1.22
+        ],
+        "all_loo_P_below_0_05": true
+      },
+      "HVLT-R": {
+        "shapiro_W_P_by_arm": {
+          "active": 0.2594,
+          "sham": 0.0095,
+          "control": 0.4137
+        },
+        "levene_P": 0.2446,
+        "loo_active_vs_sham_P_range": [
+          1e-05,
+          0.00012
+        ],
+        "loo_active_vs_sham_d_range": [
+          1.24,
+          1.45
+        ],
+        "all_loo_P_below_0_05": true
+      }
+    }
+  },
+  "sample_flow": {
+    "randomized": 85,
+    "allocated": {
+      "control": 29,
+      "active_hd_tdcs": 28,
+      "sham_hd_tdcs": 28
+    },
+    "discontinued_before_week4": {
+      "reason": "Early hospital discharge before completing 14 sessions",
+      "active": 1,
+      "sham": 2,
+      "control": 0,
+      "total": 3
+    },
+    "records_with_week4_assessment": {
+      "active": 27,
+      "sham": 26,
+      "control": 29,
+      "total": 82
+    },
+    "unique_participants_in_analysis": {
+      "active": 21,
+      "sham": 27,
+      "control": 29,
+      "total": 77
+    },
+    "records_removed": {
+      "count": 5,
+      "reason": "5 例真刺激组误录入/重复行（含 1 例按原始随机化名单改归伪刺激组）"
+    },
+    "identity_check": {
+      "randomized_equals_records_plus_discontinued": false,
+      "analysis_plus_removed_plus_discontinued_equals_randomized": false
+    },
+    "outcomes_missing_by_arm": {
+      "active": 1,
+      "sham": 2,
+      "control": 0
+    }
+  },
+  "upstream_consistency": {
+    "total": 109,
+    "matched": 109,
+    "failed": []
+  }
+}

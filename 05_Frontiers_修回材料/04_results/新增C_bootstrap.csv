@@ -1,0 +1,11 @@
+outcome,kind,observed_diff,boot_ci_lo,boot_ci_hi,boot_se,excludes_zero
+MMSE,post,0.84,0.03,1.62,0.41,True
+MMSE,change,-0.1,-0.77,0.57,0.35,False
+TMT-B,post,-47.08,-74.18,-20.89,13.54,True
+TMT-B,change,-23.59,-40.43,-7.51,8.44,True
+DST,post,0.84,-0.31,1.96,0.58,False
+DST,change,0.68,-0.03,1.42,0.36,False
+VFT,post,4.11,1.93,6.3,1.11,True
+VFT,change,2.89,1.21,4.64,0.87,True
+HVLT-R,post,6.57,3.7,9.47,1.47,True
+HVLT-R,change,4.39,2.65,6.22,0.91,True

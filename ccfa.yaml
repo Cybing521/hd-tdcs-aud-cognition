@@ -2,13 +2,14 @@ project:
   title_zh: "高精度经颅直流电刺激对男性酒依赖患者认知功能的影响"
   title_en: "Effects of High-Definition Transcranial Direct Current Stimulation on Cognitive Function in Male Inpatients with Alcohol Dependence"
   type: clinical_rct_sci
-  target_venue: Brain Stimulation
+  target_venue: Frontiers in Psychology（Major Revision，稿件号 1308143）
   analyzed_n: 77
   randomized_n: 85
   reference_count: 24
-  stage: submission_prep
-  last_updated: "2026-08-25"
-  venue_decision: locked_Brain_Stimulation
+  stage: major_revision_in_progress
+  last_updated: "2026-10-27"
+  venue_decision: Frontiers_in_Psychology_major_revision_1308143
+  repository_public: https://github.com/Cybing521/hd-tdcs-aud-cognition
 
 workflow:
   router: research-execution-to-submission

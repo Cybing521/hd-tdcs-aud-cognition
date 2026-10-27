@@ -1,0 +1,4 @@
+outcome,obs_F,perm_p_omnibus,obs_active_vs_sham_P,obs_mean_diff,perm_p_active_vs_sham,perm_scheme
+TMT-B,4.454,0.0159,0.0019,-47.08,0.0016,omnibus: 77 labels permuted; contrast: restricted permutation within active+sham (48)
+VFT,5.099,0.0063,0.00076,4.11,0.001,omnibus: 77 labels permuted; contrast: restricted permutation within active+sham (48)
+HVLT-R,8.958,0.0004,5e-05,6.57,0.0002,omnibus: 77 labels permuted; contrast: restricted permutation within active+sham (48)

@@ -1,0 +1,6 @@
+outcome,shapiro_W_P_by_arm,levene_P,loo_active_vs_sham_P_range,loo_active_vs_sham_d_range,all_loo_P_below_0_05
+MMSE,"{""active"": 0.0052, ""sham"": 0.028, ""control"": 0.0175}",0.8783,"[0.01254, 0.07621]","[0.53, 0.77]",False
+TMT-B,"{""active"": 0.3251, ""sham"": 0.0793, ""control"": 0.0402}",0.1603,"[0.00085, 0.00373]","[-1.05, -0.9]",True
+DST,"{""active"": 0.0983, ""sham"": 0.2394, ""control"": 0.5535}",0.2409,"[0.07507, 0.25155]","[0.34, 0.53]",False
+VFT,"{""active"": 0.5945, ""sham"": 0.6702, ""control"": 0.4138}",0.1063,"[0.00015, 0.00169]","[0.99, 1.22]",True
+HVLT-R,"{""active"": 0.2594, ""sham"": 0.0095, ""control"": 0.4137}",0.2446,"[1e-05, 0.00012]","[1.24, 1.45]",True

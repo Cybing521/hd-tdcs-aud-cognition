@@ -1,0 +1,1014 @@
+{
+  "scanned": [
+    ".gitignore",
+    "00_原始材料/知tDCS对酒依赖患者认知功能的影响(1).doc",
+    "01_论文正文/HD-tDCS_alcohol_dependence_cognition_BRS.docx",
+    "01_论文正文/HD-tDCS_alcohol_dependence_cognition_EN.docx",
+    "01_论文正文/HD-tDCS酒依赖认知功能_修订稿.docx",
+    "01_论文正文/figures/Figure1_CONSORT_flowchart.pdf",
+    "01_论文正文/figures/Figure1_CONSORT_flowchart.png",
+    "01_论文正文/figures/Figure2_HD_tDCS_montage.pdf",
+    "01_论文正文/figures/Figure2_HD_tDCS_montage.png",
+    "01_论文正文/figures/Figure3_primary_outcomes_post.pdf",
+    "01_论文正文/figures/Figure3_primary_outcomes_post.png",
+    "01_论文正文/figures/Figure4_change_trajectories.pdf",
+    "01_论文正文/figures/Figure4_change_trajectories.png",
+    "01_论文正文/知tDCS对酒依赖患者认知功能的影响(1).txt",
+    "02_投稿材料/Cover_letter_Brain_Stimulation.docx",
+    "02_投稿材料/Highlights.txt",
+    "02_投稿材料/Submission_checklist.md",
+    "03_analysis/build_full_manuscript.py",
+    "03_analysis/build_manuscript.py",
+    "03_analysis/build_submission_materials.py",
+    "03_analysis/clean_and_analyze.py",
+    "03_analysis/consort_flow.py",
+    "03_analysis/enhanced_analyses.py",
+    "03_analysis/figure_change.py",
+    "03_analysis/figure_montage.py",
+    "03_analysis/figure_outcomes.py",
+    "03_analysis/manuscript_content.py",
+    "03_analysis/sensitivity_analyses.py",
+    "03_analysis/validate_references.py",
+    "03_分析表格/README.md",
+    "04_data/processed/analysis_results.json",
+    "04_data/processed/consort_flow.json",
+    "04_data/processed/data_cleaning_log.json",
+    "04_data/processed/enhanced_analyses.json",
+    "04_data/processed/journal_references.csv",
+    "04_data/processed/manuscript_word_count.json",
+    "04_data/processed/post_hoc_power.json",
+    "04_data/processed/ref_validation.json",
+    "04_data/processed/sensitivity_analyses.json",
+    "HD-tDCS_AUD_cognition_delivery/01_report/HD-tDCS_AUD_cognition_BRS_manuscript.docx",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/clean_and_analyze.py",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/consort_flow.py",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/enhanced_analyses.py",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/figure_change.py",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/figure_montage.py",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/figure_outcomes.py",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/requirements.txt",
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/sensitivity_analyses.py",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/pdf/Figure1_CONSORT_flowchart.pdf",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/pdf/Figure2_HD_tDCS_montage.pdf",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/pdf/Figure3_primary_outcomes_post.pdf",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/pdf/Figure4_change_trajectories.pdf",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/png/Figure1_CONSORT_flowchart.png",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/png/Figure2_HD_tDCS_montage.png",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/png/Figure3_primary_outcomes_post.png",
+    "HD-tDCS_AUD_cognition_delivery/03_figures/png/Figure4_change_trajectories.png",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/analysis_results.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/consort_flow.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/data_cleaning_log.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/enhanced_analyses.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/journal_references.csv",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/manuscript_word_count.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/post_hoc_power.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/ref_validation.json",
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/sensitivity_analyses.json",
+    "HD-tDCS_AUD_cognition_delivery/05_submission/Cover_letter_Brain_Stimulation.docx",
+    "HD-tDCS_AUD_cognition_delivery/05_submission/Highlights.txt",
+    "HD-tDCS_AUD_cognition_delivery/05_submission/Submission_checklist.md",
+    "HD-tDCS_AUD_cognition_delivery/README.md",
+    "README.md",
+    "ccfa-review-reports/consort_checklist.md",
+    "ccfa-review-reports/manuscript_review_v3_2026-08-24.md",
+    "ccfa-review-reports/ref_validation_2026-08-24.md",
+    "ccfa.yaml",
+    "data/deid/DEID_REPORT.json",
+    "data/deid/ambiguous_participants.json",
+    "data/deid/伪刺激组_deid.xlsx",
+    "data/deid/伪刺激组比较_deid.xlsx",
+    "data/deid/比较_deid.xlsx",
+    "data/deid/真刺激组_deid.xlsx",
+    "data/deid/真刺激组比较_deid.xlsx",
+    "data/deid/酒依赖比较_deid.xlsx",
+    "data/deid/酒依赖组_deid.xlsx",
+    "literature-search-2026-08-23-hd-tdcs-aud/papers.csv",
+    "literature-search-2026-08-23-hd-tdcs-aud/papers.md"
+  ],
+  "findings": {
+    "00_原始材料/知tDCS对酒依赖患者认知功能的影响(1).doc": [
+      {
+        "kind": "旧版 .doc（未解析）",
+        "detail": "00_原始材料/知tDCS对酒依赖患者认知功能的影响(1).doc"
+      }
+    ],
+    "01_论文正文/HD-tDCS_alcohol_dependence_cognition_BRS.docx": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      }
+    ],
+    "01_论文正文/HD-tDCS_alcohol_dependence_cognition_EN.docx": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      }
+    ],
+    "01_论文正文/HD-tDCS酒依赖认知功能_修订稿.docx": [
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …组误录入行，保留伪刺激组正确记录 作者待填清单（投稿前完成） • 作者姓名、学位、单位与通讯作者联系方式 • 伦理批件号 • 基金与 CRedi…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "地址 | …uild_full_manuscript.py）。尚未分配永久公开仓库地址；脚本可向通讯作者申请获取。 试验注册：本研究未在入组前前瞻注册（20…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "单位 | …保留伪刺激组正确记录 作者待填清单（投稿前完成） • 作者姓名、学位、单位与通讯作者联系方式 • 伦理批件号 • 基金与 CRediT 作者贡献…"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      }
+    ],
+    "01_论文正文/知tDCS对酒依赖患者认知功能的影响(1).txt": [
+      {
+        "kind": "标识符关键词",
+        "detail": "家属 | …本研究经新乡医学院第二附属医院伦理委员会（前后一致）批准，研究对象及其家属均签署知情同意书。 1.2.1 一般情况调查表：收集患者一般人口学资料…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "家属 | …戒断及常规治疗，其认知功能的损害就会减轻【28，29】，但是对于患者及家属所期待的能正常生活还远远不够。在直流电刺激中，阳极会使刺激部位细胞出现…"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "7566***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "3306****"
+      }
+    ],
+    "02_投稿材料/Submission_checklist.md": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "03_analysis/build_full_manuscript.py": [
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …) items = [ \"作者姓名、学位、单位与通讯作者联系方式\", \"伦理批件…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "地址 | …uild_full_manuscript.py）。尚未分配永久公开仓库地址；脚本可向通讯作者申请获取。\") add_p(doc,…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "单位 | … items = [ \"作者姓名、学位、单位与通讯作者联系方式\", \"伦理批件号\", …"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "03_analysis/build_submission_materials.py": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "03_analysis/consort_flow.py": [
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "03_analysis/enhanced_analyses.py": [
+      {
+        "kind": "长数字串",
+        "detail": "9599**"
+      }
+    ],
+    "03_analysis/figure_change.py": [
+      {
+        "kind": "长数字串",
+        "detail": "6666**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "03_analysis/figure_montage.py": [
+      {
+        "kind": "长数字串",
+        "detail": "6666**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "03_analysis/figure_outcomes.py": [
+      {
+        "kind": "长数字串",
+        "detail": "6666**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "03_analysis/manuscript_content.py": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "03_analysis/validate_references.py": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "04_data/processed/consort_flow.json": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "04_data/processed/data_cleaning_log.json": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "04_data/processed/journal_references.csv": [
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      }
+    ],
+    "04_data/processed/ref_validation.json": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1996**"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/01_report/HD-tDCS_AUD_cognition_BRS_manuscript.docx": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/clean_and_analyze.py": [
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … cand = [r for r in rows if r.get(\"姓名\") == \"P-E\"] if not cand: …"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …r r in rows: name = r.get(\"姓名\") grp = r.get(\"分组\") …"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … audit[\"removed\"].append({\"姓名\": name, \"原分组\": grp, \"原因\": \"应为伪刺激组，…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …[r for r in cleaned if not (r.get(\"姓名\") == \"P-E\")] if lei is not Non…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … audit[\"reassigned\"].append({\"姓名\": \"P-E\", \"新分组\": 2, \"保留年龄\": lei.get…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …a x: (x.get(\"分组\") or 9, str(x.get(\"姓名\")))) return cleaned, audit d…"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/consort_flow.py": [
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/enhanced_analyses.py": [
+      {
+        "kind": "长数字串",
+        "detail": "9599**"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/figure_change.py": [
+      {
+        "kind": "长数字串",
+        "detail": "6666**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/figure_montage.py": [
+      {
+        "kind": "长数字串",
+        "detail": "6666**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/figure_outcomes.py": [
+      {
+        "kind": "长数字串",
+        "detail": "6666**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0000**"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/02_scripts/sensitivity_analyses.py": [
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …_rows = [r for r in rows if r.get(\"姓名\") == \"P-E\"] lei_rows.sort(key=…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … return [r for r in recs if r.get(\"姓名\") not in SHAM_ONLY] sets: dic…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …= [dict(r) for r in rows if r.get(\"姓名\") != \"P-E\"] if lei is not None…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …= [dict(r) for r in rows if r.get(\"姓名\") != \"P-E\"] sets[\"S3_lei_exclu…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … for r in rows: if r.get(\"姓名\") in SHAM_ONLY and r.get(\"姓名\") != …"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | ….get(\"姓名\") in SHAM_ONLY and r.get(\"姓名\") != \"P-E\": rec = dict…"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/consort_flow.json": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/data_cleaning_log.json": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/journal_references.csv": [
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/04_data/processed/ref_validation.json": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1996**"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "HD-tDCS_AUD_cognition_delivery/05_submission/Submission_checklist.md": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "README.md": [
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … | 清洗、统计、出图、建稿脚本 | | `03_分析表格/` | 含姓名的原始工作簿，**仅本地保留** | | `data/deid/` |…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | … 数据与隐私 - 原始表（`03_分析表格/*.xlsx`）含受试者姓名，已写入 `.gitignore`，不上仓。 - 仓内分析表在 `da…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …ignore`，不上仓。 - 仓内分析表在 `data/deid/`。姓名已删除，行标识为 `study_id`。 - 清洗日志中的五名跨组歧义…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …lsx` 的前提下重新生成 `data/deid/`，确认输出不含 `姓名` 列后再提交。 ## 当前状态（2026-08-25） - 分析…"
+      },
+      {
+        "kind": "标识符关键词",
+        "detail": "姓名 | …y_analyses.py` 读取 `data/deid/`，不读取含姓名的原始表。 ## 作者自行完成 - 作者信息、伦理批件号、基金、C…"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "ccfa-review-reports/consort_checklist.md": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "ccfa-review-reports/manuscript_review_v3_2026-08-24.md": [
+      {
+        "kind": "标识符关键词",
+        "detail": "单位 | …正。 **作者必须完成（不可代笔）**：B4 注册、伦理批件号、作者/单位/通讯、基金、CRediT、routine care 与合并用药描述、…"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2295****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "4178****"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "ccfa-review-reports/ref_validation_2026-08-24.md": [
+      {
+        "kind": "长数字串",
+        "detail": "1073************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1996**"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "ccfa.yaml": [
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ],
+    "data/deid/ambiguous_participants.json": [
+      {
+        "kind": "长数字串",
+        "detail": "2953**"
+      }
+    ],
+    "data/deid/伪刺激组_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:0645****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:5909**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:2953**"
+      }
+    ],
+    "data/deid/伪刺激组比较_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:分组"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:0645****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:5909**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:2953**"
+      }
+    ],
+    "data/deid/比较_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:分组"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:1342***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:0645****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:5909**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:2953**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:4254**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:5038**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:9540**"
+      }
+    ],
+    "data/deid/真刺激组_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:1342***"
+      }
+    ],
+    "data/deid/真刺激组比较_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:分组"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:1342***"
+      }
+    ],
+    "data/deid/酒依赖比较_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:分组"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:4254**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:5038**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:9540**"
+      }
+    ],
+    "data/deid/酒依赖组_deid.xlsx": [
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:年龄"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:教育年限"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:成瘾时间"
+      },
+      {
+        "kind": "中文姓名形态（需人工判读）",
+        "detail": "Sheet1:戒酒次数"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:4254**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:5038**"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "Sheet1:9540**"
+      }
+    ],
+    "literature-search-2026-08-23-hd-tdcs-aud/papers.csv": [
+      {
+        "kind": "长数字串",
+        "detail": "3079****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      }
+    ],
+    "literature-search-2026-08-23-hd-tdcs-aud/papers.md": [
+      {
+        "kind": "长数字串",
+        "detail": "1196****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1461************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "2243***"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "0734****"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1550*************"
+      },
+      {
+        "kind": "长数字串",
+        "detail": "1408****"
+      },
+      {
+        "kind": "日期形态",
+        "detail": "20"
+      }
+    ]
+  },
+  "quasi_identifier_note": "去标识表保留 6 项人口学/饮酒变量（年龄、教育年限、首次饮酒年龄、累计使用时间、成瘾时间、戒酒次数）与 5 项认知评分。在 77 例规模下，这些准标识符组合理论上存在再识别可能。公开前请确认机构伦理与知情同意允许共享该层级数据；若不允许，只公开结果表与脚本（见 results/），不开 data/deid/。"
+}
