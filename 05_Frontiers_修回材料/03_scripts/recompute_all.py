@@ -33,9 +33,22 @@ from scipy import stats
 import statsmodels.api as sm
 
 ROOT = Path(__file__).resolve().parents[1]
-DEID = ROOT / "04_raw_data" / "upstream_repo" / "data" / "deid"
-UPSTREAM = ROOT / "04_raw_data" / "upstream_repo" / "04_data" / "processed"
-OUT = ROOT / "06_results"
+
+
+def _first_existing(*candidates: Path) -> Path:
+    for c in candidates:
+        if c.exists():
+            return c
+    return candidates[0]
+
+
+# 目录布局兼容：项目/仓库布局（04_raw_data/upstream_repo/...）与独立可复现性包布局（data/...）
+DEID = _first_existing(ROOT / "04_raw_data" / "upstream_repo" / "data" / "deid",
+                        ROOT / "data" / "deid")
+UPSTREAM = _first_existing(ROOT / "04_raw_data" / "upstream_repo" / "04_data" / "processed",
+                           ROOT / "04_data" / "processed",
+                           ROOT / "upstream" / "04_data" / "processed")
+OUT = _first_existing(ROOT / "06_results", ROOT / "results")
 OUT.mkdir(parents=True, exist_ok=True)
 
 SEED = 20261027
@@ -671,8 +684,13 @@ def diagnostics(rows) -> dict:
 
 def sample_flow() -> dict:
     """F. 样本流向逐级核算（依据 CONSORT 记录与数据清洗日志）。"""
-    log = json.loads((UPSTREAM / "data_cleaning_log.json").read_text(encoding="utf-8"))
-    flow = json.loads((UPSTREAM / "consort_flow.json").read_text(encoding="utf-8"))
+    try:
+        log = json.loads((UPSTREAM / "data_cleaning_log.json").read_text(encoding="utf-8"))
+        flow = json.loads((UPSTREAM / "consort_flow.json").read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return {"skipped": True,
+                "reason": "缺少记录核查日志（data_cleaning_log.json / consort_flow.json）",
+                "note": "参与者流向的逐级核算见补充材料 Table S1；本包不含上轮流程日志。"}
     randomized = flow["flow"]["randomized"]
     disc = flow["flow"]["discontinued_intervention"]
     before = log["sample_size_before"]
@@ -795,12 +813,18 @@ def main() -> None:
     res["bootstrap"] = bootstrap_cis(rows)
     res["diagnostics"] = diagnostics(rows)
     res["sample_flow"] = sample_flow()
-    checks = crosscheck(res)
-    res["upstream_consistency"] = {
-        "total": len(checks),
-        "matched": sum(1 for c in checks if c["match"]),
-        "failed": [c for c in checks if not c["match"]],
-    }
+    try:
+        checks = crosscheck(res)
+        res["upstream_consistency"] = {
+            "total": len(checks),
+            "matched": sum(1 for c in checks if c["match"]),
+            "failed": [c for c in checks if not c["match"]],
+        }
+    except FileNotFoundError as exc:
+        res["upstream_consistency"] = {
+            "skipped": True,
+            "reason": f"缺少上轮结果表（{exc.filename}），无法做逐项交叉核对",
+        }
 
     (OUT / "复算结果_全量.json").write_text(json.dumps(res, ensure_ascii=False, indent=2), encoding="utf-8")
     write_csv(OUT / "表1_人口学与饮酒特征.csv", res["table1"])
@@ -829,9 +853,13 @@ def main() -> None:
 
     print("== 复算完成 ==")
     print("n:", res["n"], "total", res["total_n"])
-    print("上游一致性：", res["upstream_consistency"]["matched"], "/", res["upstream_consistency"]["total"], "一致")
-    for c in res["upstream_consistency"]["failed"]:
-        print("  不一致:", c)
+    if res["upstream_consistency"].get("skipped"):
+        print("上游一致性：跳过（", res["upstream_consistency"]["reason"], "）")
+    else:
+        print("上游一致性：", res["upstream_consistency"]["matched"], "/",
+              res["upstream_consistency"]["total"], "一致")
+        for c in res["upstream_consistency"]["failed"]:
+            print("  不一致:", c)
     print("\n-- tipping point --")
     for k, v in res["tipping_point"]["outcomes"].items():
         print(f"  {k}: obs P={v['observed_active_vs_sham_P']}, d={v['observed_d']}, "

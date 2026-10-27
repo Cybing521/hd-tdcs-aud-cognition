@@ -158,6 +158,10 @@ def assemble_repro_package() -> Path:
         copy_ascii(ROOT / "03_scripts" / s, rp / "scripts" / s)
     copy_ascii(ROOT / "05_验证记录" / "数字审计.py", rp / "scripts" / "audit_manuscript_numbers.py")
 
+    for name in ("data_cleaning_log.json", "consort_flow.json", "analysis_results.json",
+                 "enhanced_analyses.json", "sensitivity_analyses.json", "post_hoc_power.json"):
+        copy_ascii(REPO / "04_data" / "processed" / name, rp / "upstream" / "04_data" / "processed" / name)
+
     for p in sorted(RESULTS.glob("*.csv")):
         copy_ascii(p, rp / "results" / p.name)
     copy_ascii(RESULTS / "复算结果_全量.json", rp / "results" / "recomputed_results.json")
@@ -167,6 +171,11 @@ def assemble_repro_package() -> Path:
         "# Reproducibility package — HD-tDCS for cognition in alcohol dependence\n\n"
         "Manuscript: Effects of High-Definition Transcranial Direct Current Stimulation on Cognitive\n"
         "Function in Male Inpatients with Alcohol Dependence: A Randomized Sham-Controlled Trial\n\n"
+        "Journal: Frontiers in Psychology — manuscript ID 1308143 (major revision)\n"
+        "Repository: https://github.com/Cybing521/hd-tdcs-aud-cognition\n\n"
+        "This package is the standalone snapshot of the public repository linked in the manuscript's\n"
+        "Data availability and Code availability statements. The repository remains the canonical\n"
+        "location; a permanent DOI will be assigned at the point of submission.\n\n"
         "## Contents\n\n"
         "| Path | Description |\n|---|---|\n"
         "| `data/deid/comparison_deid.xlsx` | De-identified analysis dataset, 77 records x 24 variables, one record per participant |\n"
@@ -182,6 +191,12 @@ def assemble_repro_package() -> Path:
         "| `scripts/docx_edit.py` | DOCX editing helpers (clean / tracked-changes / highlight output) |\n"
         "| `scripts/verify_revisions.py` | Self-check: accept-all-revisions equals the clean version, reject-all equals the submitted version |\n"
         "| `scripts/audit_manuscript_numbers.py` | Number audit: every statistic in the manuscript is traced to a result table |\n"
+        "| `upstream/04_data/processed/data_cleaning_log.json` | Record-verification log for the five ambiguous participants (codes P-A to P-E) |\n"
+        "| `upstream/04_data/processed/consort_flow.json` | Participant flow and the arithmetic behind Table S1 |\n"
+        "| `upstream/04_data/processed/analysis_results.json` | First-round result tables, used by the 109/109 cross-check |\n"
+        "| `upstream/04_data/processed/enhanced_analyses.json` | First-round ANCOVA, effect-size and correlation outputs |\n"
+        "| `upstream/04_data/processed/sensitivity_analyses.json` | First-round sensitivity sets S1-S4 |\n"
+        "| `upstream/04_data/processed/post_hoc_power.json` | First-round post-hoc power estimates |\n"
         "| `results/*.csv` | Derived result tables |\n"
         "| `results/recomputed_results.json` | Full recomputation output, including the upstream consistency check |\n"
         "| `checksums.md5` | SHA-256 checksums of all files in this package |\n\n"
